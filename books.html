@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommended Books & Research | Santa Rosa First Peoples Community</title>
+    <meta name="description" content="Explore recommended books, scholarly articles, and downloadable research papers about the First Peoples of Trinidad and Tobago.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-brand">
+            SRFPC<span>.</span>
+        </div>
+        <button class="mobile-menu-btn" id="mobile-btn">
+            ☰
+        </button>
+        <ul class="nav-links" id="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="history.html">History & Culture</a></li>
+            <li><a href="festivals.html">Festivals</a></li>
+            <li><a href="queens.html">Carib Queens</a></li>
+            <li><a href="heritage.html">Heritage Village</a></li>
+            <li><a href="books.html" class="active">Books & Research</a></li>
+            <li><a href="visit.html">Visit Us</a></li>
+        </ul>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>Books & Research</h1>
+        <p>A curated collection of literature and academic studies on our history.</p>
+    </header>
+
+    <!-- Featured Books -->
+    <main>
+        <section class="section">
+            <div class="section-header">
+                <h2>Featured Literature</h2>
+            </div>
+            <div class="books-grid scroll-anim">
+                <!-- Book 1 -->
+                <div class="book-card">
+                    <div>
+                        <img src="books srfpc/book_arima_born2.jpg" alt="Arima Born Cover" class="book-cover">
+                        <h3 class="book-title">Arima Born</h3>
+                        <p style="font-size: 0.95rem; color: var(--color-text-light); margin-bottom: var(--spacing-md);">Revealing the History of Arima</p>
+                    </div>
+                    <a href="books srfpc/ARIMA_BORN_REVEALING_THE_HISTORY_OF_ARIM.pdf" class="download-btn" target="_blank">Read PDF</a>
+                </div>
+
+                <!-- Book 2 -->
+                <div class="book-card">
+                    <div>
+                        <img src="books srfpc/book_indigenous_resurgence_contemporary_caribbean.jpg" alt="Indigenous Resurgence Cover" class="book-cover">
+                        <h3 class="book-title">Indigenous Resurgence</h3>
+                        <p style="font-size: 0.95rem; color: var(--color-text-light); margin-bottom: var(--spacing-md);">In the Contemporary Caribbean</p>
+                    </div>
+                    <a href="books srfpc/Colonization_Transformations_and_Indigen.pdf" class="download-btn" target="_blank">Read PDF</a>
+                </div>
+
+                <!-- Book 3 -->
+                <div class="book-card">
+                    <div>
+                        <img src="books srfpc/book_ruins_of_absence.jpg" alt="Ruins of Absence Cover" class="book-cover">
+                        <h3 class="book-title">Ruins of Absence</h3>
+                        <p style="font-size: 0.95rem; color: var(--color-text-light); margin-bottom: var(--spacing-md);">Presence of Caribs in Trinidad & Tobago</p>
+                    </div>
+                    <a href="books srfpc/Ruins_of_absence_presence_of_Caribs_post.pdf" class="download-btn" target="_blank">Read PDF</a>
+                </div>
+
+                <!-- Book 4 -->
+                <div class="book-card">
+                    <div>
+                        <img src="books srfpc/book_who_is_an_indian_cover.jpg" alt="Who is an Indian Cover" class="book-cover">
+                        <h3 class="book-title">Who is an Indian?</h3>
+                        <p style="font-size: 0.95rem; color: var(--color-text-light); margin-bottom: var(--spacing-md);">Amerindian Identity in Trinidad & Tobago</p>
+                    </div>
+                    <a href="books srfpc/The_indigenous_peoples_of_Trinidad_and_T.pdf" class="download-btn" target="_blank">Read PDF</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Research Library -->
+        <section class="section" style="background-color: var(--color-surface);">
+            <div class="library-section">
+                <div class="section-header">
+                    <h2>Research Library & Bibliography</h2>
+                    <p>Download academic articles, historical records, and archaeological papers.</p>
+                </div>
+
+                <div class="search-container">
+                    <input type="text" id="searchLibrary" class="search-input" placeholder="Search by title or author...">
+                </div>
+
+                <div class="library-list" id="libraryList">
+                    <div class="library-item" data-title="arima born revealing history of arima">
+                        <div class="item-info">
+                            <div class="item-title">Arima Born: Revealing the History of Arima</div>
+                            <div class="item-meta">PDF Document • 2.7 MB</div>
+                        </div>
+                        <a href="books srfpc/ARIMA_BORN_REVEALING_THE_HISTORY_OF_ARIM.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="amerindian european encounters trinidad tobaogo">
+                        <div class="item-info">
+                            <div class="item-title">Amerindian-European Encounters on and around Trinidad & Tobago</div>
+                            <div class="item-meta">PDF Document • 4.5 MB</div>
+                        </div>
+                        <a href="books srfpc/Amerindian_European_encounters_on_and_ar.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="pre columbian art of the caribbean lawrence waldron">
+                        <div class="item-info">
+                            <div class="item-title">Pre-Columbian Art of the Caribbean (by Lawrence Waldron)</div>
+                            <div class="item-meta">PDF Document • 5.9 MB</div>
+                        </div>
+                        <a href="books srfpc/Lawrence_Waldron_Pre_Columbian_Art_of_th.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="colonial encounters europe and the native caribbean">
+                        <div class="item-info">
+                            <div class="item-title">Colonial Encounters: Europe and the Native Caribbean</div>
+                            <div class="item-meta">PDF Document • 20.3 MB</div>
+                        </div>
+                        <a href="books srfpc/Colonial_Encounters_Europe_and_the_Nativ.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="indigenous caribbeans perspectives archaeology ethnohistory">
+                        <div class="item-info">
+                            <div class="item-title">Indigenous Caribbean Perspectives: Archaeology & Ethnohistory</div>
+                            <div class="item-meta">PDF Document • 905 KB</div>
+                        </div>
+                        <a href="books srfpc/Indigenous_Caribbean_perspectives_archae.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="displacements and transformations in caribbean archaeology">
+                        <div class="item-info">
+                            <div class="item-title">Displacements and Transformations in Caribbean Archaeology</div>
+                            <div class="item-meta">PDF Document • 4.4 MB</div>
+                        </div>
+                        <a href="books srfpc/Displacements_and_Transformations_in_Car.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="mothers hyphenated imaginations feast of santa rosa">
+                        <div class="item-info">
+                            <div class="item-title">Mothers' Hyphenated Imaginations: The Feast of Santa Rosa</div>
+                            <div class="item-meta">PDF Document • 1.9 MB</div>
+                        </div>
+                        <a href="books srfpc/Mothers_Hyphenated_Imaginations_The_Feas.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="the power of the illegitimate la divina pastora siparia trinidad">
+                        <div class="item-info">
+                            <div class="item-title">The Power of the Illegitimate: La Divina Pastora of Siparia</div>
+                            <div class="item-meta">PDF Document • 2.3 MB</div>
+                        </div>
+                        <a href="books srfpc/The_Power_of_the_Illegitimate_La_Divina.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="writing the caribs out construction of indigenous identity">
+                        <div class="item-info">
+                            <div class="item-title">Writing the Caribs Out: The Construction of Indigenous Identity</div>
+                            <div class="item-meta">PDF Document • 389 KB</div>
+                        </div>
+                        <a href="books srfpc/Writing_the_Caribs_Out_The_Construction.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+
+                    <div class="library-item" data-title="the indigenous peoples of trinidad and tobago">
+                        <div class="item-info">
+                            <div class="item-title">The Indigenous Peoples of Trinidad & Tobago (Historical Summary)</div>
+                            <div class="item-meta">PDF Document • 44 KB</div>
+                        </div>
+                        <a href="books srfpc/The_indigenous_peoples_of_Trinidad_and_T.pdf" class="download-btn" target="_blank">Download</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div>
+                <h4>SRFPC</h4>
+                <p>Preserving the heritage of Trinidad and Tobago's First Peoples.</p>
+            </div>
+            <div>
+                <h4>Location</h4>
+                <p>7 Paul Mitchell St<br>Arima, Trinidad and Tobago</p>
+            </div>
+            <div>
+                <h4>Contact</h4>
+                <p>Phone: 664-1897</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 Santa Rosa First Peoples Community. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        // Client-side instant filter search functionality
+        document.getElementById('searchLibrary').addEventListener('input', function(e) {
+            const query = e.target.value.toLowerCase();
+            const items = document.querySelectorAll('.library-item');
+            
+            items.forEach(item => {
+                const title = item.getAttribute('data-title');
+                if (title.includes(query)) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1783 @@
+Page 1 of 30
+
+ISSN 1443-5799
+Search
+
+Reprinted from: Sincronía Spring 2002
+"We are not extinct": The revival of Carib and Taino identities, the internet,
+and the transformation of offline indigenes into online 'N-digenes'
+Maximilian C. Forte
+Adelaide University (Australia)
+mcforte@centrelink.org
+“One of the things I like best about the Internet is that millions of people whose ideas were ignored in
+the mainstream media can now be heard. However, one of the things I really hate about the Internet is that
+millions of people whose ideas were ignored in the mainstream media can now be heard”.
+-----William McLaughlin, Friday, 25 May 2001, alt.native.
+This paper stems from an ongoing project that involves addressing two ‘gaps’ in the relevant
+research literature. The first such ‘gap’ pertains to what is still relatively minor anthropological
+interest in the social and cultural implications of the Internet, and the concomitant lack of sufficient
+ethnographic research in this area. In the overall social science literature about the Internet, the ways
+in which indigenous peoples have engaged this medium has suffered from even further neglect, apart from
+such examples as the brief (yet nonetheless significant) empirical reports contained in a special issue of
+Cultural Survival Quarterly (1998). I have only surmised some possible reasons for this generalized lack of
+anthropological interest derived from informal exchanges with a variety of scholars. One of the main
+concerns appears to be that the Internet is itself still new and socially marginal, a tool of the few, or
+merely a toy in the hands of a tiny elite, when considered in terms of global social distribution. From
+this perspective, the Internet pertains to a relatively small number of middle-class youths (the ‘Net
+Generation’ or N-gen), professionals, and other privileged groups in ‘developed’ countries or in the
+‘developed’ pockets of ‘underdeveloped’ countries. Indeed, data presented in the NUA Internet Surveys show
+that only 8.46% of the world’s population is online, that is, 513.41 million people as of August 2001 (NUA
+2001b). The perception that users in the United States and Europe, and ‘core’ areas of the ‘periphery’,
+constitute the dominant presence on the Internet is also ostensibly supported in various attempts to map
+cyberspace using geographic metaphors (see Dodge 2001; Forte 2001b). The figures for Trinidad and Tobago, a
+focal point in my study, seemingly confirm this core-periphery division. As of December 2000 only 42,800
+Trinidadians had Internet access, or 3.64% of the national population (NUA 2001a). The International
+Telecommunications Union reports that in Trinidad, for every 1,000 members of the national population,
+there were 5.96 hosts, 77.25 Internet users, and only 54.2 PCs (ITU 2001; also IBRD 2001). In addition to
+the ITU and World Bank, other agencies report that radio, television, and newspapers, in that order, are
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 2 of 30
+the dominant means for disseminating news and images in Trinidad (UNDP 2001). Yet, the Internet population
+is constantly growing, and the social and cultural impact of the Internet is not limited only to the online
+realm. Indeed, as Steve Cisler (1998) argued: “The Internet may not be for everyone or for every group, but
+even those without it will be affected by it, or by the lack of access to it in some form”.
+What is most significant for our present concerns is that there has been indigenous engagement with
+the Internet almost from the start. The Website of the Oneida Indian Nation in the State of New York was,
+reputedly, the first site to be launched by any indigenous body anywhere, coming online in 1994 even before
+the Website for the White House, at a time when there were perhaps only 5,000 Internet sites in total
+(Polly 1998). On the other hand, that a U.S. indigenous site should be the first is also a telling
+indication of the kind of center-periphery dynamic that appears in various key points of this paper and in
+my research on the contemporary development of Caribbean indigeneity in general. We must recognize,
+nonetheless, that there is now a significant mass of Websites built and maintained by indigenous bodies, or
+for indigenous groups as a result of forms of ‘cyberbrokerage’ (see Delgado P. & Becker 1998; Polly 1998),
+by
+indigenous
+peoples,
+or
+about
+indigenous
+peoples
+especially
+in
+the
+form
+of
+informational
+‘clearinghouses’ (Cisler 1998).
+The second research ‘gap’ at the heart of this study stems from the fact that in much if not most of
+the social science literature on the cultural development of the post-Conquest Caribbean there seems to be
+a consensus that the indigenous has been absent or severely diminished (Forte 2001a:1-5). The dominant
+themes in the social science literature are that indigenous peoples in the Caribbean became virtually
+extinct (in biological terms), that they have had limited cultural impact on the post-Conquest Caribbean,
+or that they were absent from the repertory set down by colonial experience (thus overlooking the extent to
+which ‘Carib’ and ‘Taino’ became canonized as symbols of resistance and/or commemorated as the ancient
+bedrock of the nation in the historical narratives of Caribbean cultural nationalists [cf. Dávila 1999;
+Forte 2001a:80-138, 280-299]). Also neglected is the current resurgence of Amerindian identities and
+traditions and the wider recognition that these are receiving. This neglect is all the more remarkable when
+we consider such developments as the current region-wide revival of Caribbean Amerindian identities and
+organizations, as evidenced by Trinidad’s Santa Rosa Carib Community (SRCC), state support and recognition
+for bodies such as the SRCC, the holding of three international indigenous gatherings in Arima, Trinidad,
+itself; and, at the regional level, as exemplified by the formation of the Caribbean Organization of
+Indigenous Peoples, the growth of ‘Caribism’ in Dominica, the international networking of Belizean
+Garifuna, and the emergence of an array of new Taino organizations comprised by Puerto Ricans in the U.S.
+(see Haslip-Viera 1999). Moreover, there is already considerable evidence to suggest that the growth and
+development of Amerindian identity and traditions in one territory is significantly aided and shaped by
+Amerindian cultural revitalization efforts in other territories. Major media for this regionalized
+phenomenon have been those of conferences organized by activist academics, non-governmental organizations,
+North American indigenous bodies (see Palacio 1992, 1989), and international organizations such as the
+Organization of American States; regional arts festivals, such as CARIFESTA, that have gathered indigenous
+representatives from across the region especially since the Columbian Quincentenary in 1992; personal ties
+and relations between individuals in different countries (Forte 1998-1999a); and, of greatest interest for
+our present purposes, increasingly the Internet. As I will discuss in this paper, Caribbean indigenous
+engagement with the Internet must be analytically situated within this context of regionalized and
+globalized modes of representing and organizing indigeneity.
+It is therefore significant that in endeavoring to redress the second research gap we should thus
+also be led to remedying the first research gap listed above. This paper represents the convergence of
+three areas of investigative concern: (1) the widened impact of the Internet in building networks of common
+interests and promoting certain self-representations; (2) the globalization of indigeneity, whereby
+discourses, practices, and motifs symbolic of an increasingly generic mode of representing indigenous
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 3 of 30
+
+peoples and indigenous struggles are taking hold in the international arena; and, (3) the revival of
+Amerindian identities in the Island and diaspora communities of the Caribbean—all of which are developing
+concurrently. In broad terms, the main questions at the center of this study revolve around the
+motivations, constraints, enabling factors and outcomes involved in transforming offline indigenes into
+what I call online N-digenes. At the same time as I investigate the electronic dimension of the
+contemporary construction of Caribbean Amerindian identities, I examine the networks of interests and
+infrastructure constituting the new Webschaften that inhabit particular electronic landscapes, or (if we
+continue with this revamping of our terms) iScapes. In this paper I will address the question of what
+online cultural practice offers to revivalist groups that offline practice does not provide, even when the
+former is propelled by the latter. In addressing this question, I focus on the dominant, unifying theme of
+most Caribbean Amerindian Websites: “We are not extinct”.
+I argue that the electronic assertion of ‘survival’, by self-described ‘revivalist’ and
+‘restorationist’ groups, occurs precisely because the offline realm places many more constraints on the
+dissemination of these assertions. As Cisler (1998) observed: “One of the strongest reasons for having a
+presence on the Internet is to provide information from a viewpoint that may not have found a voice in the
+mainstream media”. I thus argue that in helping to promote the visibility of peoples long believed to have
+been extinct, or ignored for being minorities, the Internet also helps to embody groups facing difficulties
+in gaining acceptance as “indigenous”, whilst facilitating mutual recognition and validation between these
+groups thus lending further authority and authenticity to the individual groups in their own offline
+contexts. In other words, and as depicted in Figure 1, I examine the processes by which the ‘veracity’ of
+Caribbean Amerindian indigeneity is sought and then attained by electronic means of promotion, forming a
+loop of processes that I call the V.E.R.A.city loop, that is, online visibility helping to virtually embody
+groups who might not otherwise be noticed or distinguished, who, given this virtualized visibility and
+embodiment subsequently gain recognition from prospective allies and brokers. In some cases, depending upon
+the reputation of one’s ally, the fact of being recognized itself adds authenticity to a particular,
+previously under-recognized group’s claim to be ‘real Tainos’ or ‘real Caribs’.
+Figure 1: The ‘V.E.R.A.city’ Loop of Electronic ‘Revival’
+
+The ethnographic focus of this study consists of reorganized groups such as the Santa Rosa Carib
+Community (SRCC) in Arima, Trinidad,[1] and new revivalist Taino groups based in the U.S.[2] In the case of
+the SRCC, the bulk of my research was conducted ‘on the ground’. In the case of Taino groups, much of this
+research resulted from my online participation and observation. It is a combination of these two modes that
+underlies this research. My overall concern, offline, has been to document and analyze why and how groups
+such as the SRCC are motivated to locate themselves within international indigenous networks and the ways
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 4 of 30
+in which these have served to reshape their self-representations. In terms of my online methodology,
+the following were the primary ethnographic avenues by which I conducted the research and gained the
+experience and observations at the base of this project. (1) I acted as a direct contributor and ‘coconstructor’ (see Forte 1998-1999b) in the preparation of Websites on behalf of my informants (SRCC 19982001; Los Niños del Mundo 1999-2001a), which emerged from collaborative writing exercises between my
+informants and myself as part of my fieldwork. (2) I created other sites that featured my field research
+and that I also used for posting pre-prints of my work; part of this effort was to create a research
+resource for other scholars, whilst also acting as a means of interacting with interested researchers (see
+Forte 1998-2001a, 1998-2001b, 1998-2001c). (3) Emerging from the previous two efforts, I founded the
+Caribbean Amerindian Centrelink (CAC 1998-2001) which gathers Websites by or about Caribbean Amerindians
+under one virtual roof, whilst also publishing articles, essays, personal testimonies of contemporary
+Tainos, and a newsletter, and brings together scholars and activists through a mailing list, a listserv,
+and provides for further feedback via a message board. In addition to the correspondence and feedback
+generated by this resource, the site itself is also equipped with site usage monitors that gather
+statistics on user traffic while also furnishing information on linked sites plus search terms and phrases
+used to navigate within the CAC, thus furnishing me with a ‘user model’. As a result, these various means
+generated the corpus of data underpinning the online dimension of my ethnography. (4) I have also been
+active in the field of Internet content organization as an editor in the Open Directory Project (dmoz.org),
+[3] a human-operated directory of Websites that provides the core database of Websites for numerous
+Internet search engines and directories such as Google, Hotbot, Netscape and others. What this allowed me
+to do was to raise the online profile of all available Web pages by or about Caribbean Amerindians,
+expanding the database from the original four pages listed in December 2000, to 198 pages by August 2001.
+Finally, we require an ethnographic overview of the offline-online nexus in the representation of
+Caribbean Amerindians. This has resulted in a telling pattern of distinctions between groups in the
+Caribbean and its diaspora. There are at least three different offline-online situations, which can be
+summarized as follows. (1) Those groups established as territorially-based entities, formalized by law,
+with their own residential communities and their own official political structures, such as the Amerindian
+tribes in Guyana and the Caribs of Dominica. These are the groups that are least represented on the
+Internet. This is most likely due to the socio-economic situations of the given populations which result in
+their restricted access to information technology, and possibly also due to their not perceiving the
+Internet as a valuable or crucial component of their political and cultural practice ‘on the ground’, which
+may itself be the result of restricted access to, and thus knowledge of, the opportunities afforded by
+global Internet communication.[4] In those cases where they are represented, it is the result of
+cyberbrokerage or the independent efforts of others, often not members of the given populations and often
+situated abroad. In the case of Guyana, the Amerindian Peoples Association has a Website (APA 2001) which
+was produced and is maintained as a result of an initiative between the Government of Guyana and the United
+Nations Development Program—and this is a site with a strong political and economic focus that is not
+centred on the “we are not extinct” since this is not a predominant perception of the state of Guyana’s
+Amerindians. In the case of Dominica’s Carib Territory, there are at least three key ways in which the
+Caribs are represented online. Delphis Ltd. (2001a) is a Dominican Web design firm that maintains
+Dominica’s sole Internet portal, called “A Virtual Dominica” (Delphis 2001b). Delphis also hosts pages on
+the Dominica Caribs, most notably pertaining to the Gli-Gli Carib Canoe Project of 1997 (Hubka 1997) which
+involved a much publicized journey from Dominica to the Orinoco, relinking Carib communities along the way
+(see Forte 1998-1999a). The Dominica Caribs are also featured on a Website produced by a Dominican émigré
+in Canada (Riviere 2001). A German NGO, Kalinago e.V., describing itself as consisting of “19 interested
+parties who are committed to the preservation of the culture and traditional knowledge of the last
+remaining indigenous people of the Caribbean, the Caribs, or, as they call themselves, the Kalinago”, also
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 5 of 30
+maintains the other major Website representing Dominica’s Caribs (Kalinago e.V. 2001a). (2) Another
+category consists of those groups that have been recently reorganized, such as the SRCC, which, though it
+lacks a separate land base or an autonomous political structure, the SRCC has built upon previous communal
+bases and has achieved some measure of state recognition and support. The SRCC has embarked upon an effort
+to obtain a greater degree of recognition at the national level by reviving and promoting ‘Carib
+traditions’ for a wider national audience and by seeking greater exposure and validation by allying itself
+with indigenous bodies abroad, including U.S.-based Tainos. SRCC members lack any independent access to
+information technology or the Internet. As I mentioned above, the SRCC attained an online presence as part
+of my own collaborative cyberbrokerage. Subsequently, the SRCC has also achieved online visibility via an
+independent Trinidadian cultural tourism site, Amerindian Trail (Marchock 2001), and as a ‘chapter’
+represented abroad by the United Confederation of Taino People based in New York (see UCTP 2001). (3) The
+final category consists of the many Taino groups based amongst Puerto Ricans in the U.S., whose presence
+dominates the Internet where Caribbean Amerindian Websites are concerned. Most of these groups were formed
+in the 1990s and lack either an independent, collective hold on resources and are still very much engaged
+in the struggle for recognition, not just as organizations but as Tainos, given the predominant perceptions
+that the Tainos are extinct in Puerto Rico (cf. Dávila 1999). These are the groups that I have
+characterized as ‘new revivalist’ above. The dominant feature of these groups is their access to
+information technology and their active networking on the Internet, a fact that distinguishes them from the
+previous two categories. In addition, in the majority of cases, these groups have their own Webmasters and
+thus design and maintain their own Websites, or have an exclusive and direct say in what is posted on their
+behalf. In all cases, what one sees is individuals and organizations engaged in relatively unfettered selfrepresentation, demonstrating often advanced Internet design and networking skills (e.g. Baramaya 2001;
+Biaraku 2001; Ciboney 2001; Coqui 2001; JTTN 2001; Maisiti 2001; Presencia Taina 2001a, 2001b; TALK 2000;
+TTAT 2001; UCTP 2001; Vargas-Stehney 2001).
+This paper is organized analytically along two axes, the local—regional—global axis and the offline—
+online axis. In the remainder of this paper I will examine processes of
+globalizing indigeneity insofar as these shed light on the offline motivations and designs for online
+cultural practice. I will also outline some of the outcomes of online representational practice, and
+conclude with comments on structure-agency issues and the digital divide.
+
+The Globalization of Indigeneity
+‘Indigeneity’ is a problematic term that I use repeatedly in this work in an admittedly slippery
+fashion, as a matter of both design and necessity. The term seems to have only randomly and sporadically
+surfaced in the literature mostly within the last ten years and there is as yet no consensus on how best to
+define the term. I use it as an open term, meant to be distinguished from ‘indigenous-ness’ which can
+connote a static ‘state of being’, or ‘indigenism’ which has specific Latin American connotations of
+elitist romanticism and state incorporation projects known as indigenismo (see Díaz-Polanco 1982, Field
+1994), which contrasts with indianidad (or ‘Indianity’) as ‘indigenism from below’ (see Berdichewsky
+1989:25-26; Varese 1982), or what some call “radical indigenismo” (Bollinger & Lund 1982:20). In broader
+terms however, the value of the term ‘indigeneity’ lies in its generalizing denotation of the theory and
+practice of, by or for ‘the indigenous’, that is, as a bundle of discourses and practices for representing
+‘the indigenous’. ‘Indigeneity’ can be also be used to refer to some notion of being ‘locally rooted’ in a
+particular territory, of being either ‘first here’ as expressed in the ‘first nations’ idea (an idea of
+precedence) or the ‘true local’ as expressed in the ‘sons of the soil’ idea (an idea of residence).
+What we must recognize is that ‘indigeneity’ and ‘locality’ make no logical sense without at least
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 6 of 30
+implicit reference to a prior notion of ‘the global’. Indeed, if we see the history of
+‘globalization’ as including the emergence of the modern world-system in the 16th century, the colonial
+expansion of Europe into other territories was itself responsible for marking some persons as ‘indigenes’
+in the first place. In the contemporary period, the active construction and representation of indigeneity
+implicitly relates, reads, responds, and reacts to processes of globalization (see Robertson 1992:46).
+Moreover, as Friedman (1994:199) frames it, we can witness the extent to which the “heightened
+representability of the fourth world peoples” is a “global process in social terms”. Giddens (1990:5, 64)
+and Robertson (1992:130) both argue that globalization, beyond observable relations of interdependence,
+involves local and personal contexts of social experience being transformed through what Giddens highlights
+as social action at a distance, which is complemented by Robertson’s thesis that contemporary concerns with
+tradition and indigeneity largely rest on “globally diffused ideas”. In addition, Kottak and Colson argue
+that what Meyer Fortes called “the field of social relations”, meaning the “range of social relations, in
+time and space”, is a range that is now international (1994:396). The Internet itself plays a central role
+in enabling the global diffusion of ideas of indigeneity whilst stretching the communicative dimension of
+social relations across time and space.
+While thus far we have analyzed indigeneity as emerging out of, and responding to, globalization, I
+would also argue that we can speak of the globalization of indigeneity itself. Whether indigeneity has been
+globalized or simply internationalized is a problematic question. Friedman (1999:1) argues that since the
+mid-1970s “there has been a massive increase in the activities of indigenous minorities in the world” and
+“their struggles have become global news and they have entered numerous global organizations so that they
+have become an international presence” (emphasis added). Yet, he argues that this “does not mean that they
+have been globalized” (Friedman 1999:1). Given Friedman’s own reliance on the term “global” when describing
+this phenomenon, the distinction he then raises between that and “international” seems unclear. At other
+times, Friedman has argued, “Fourth World movements have become a global phenomenon, institutionalized via
+United Nations organs such as the World Council of Indigenous Peoples” (Friedman n.d., also Friedman
+1994:199). The main question would then seem to be: How internationalized does something have to become
+before it can be seen to be globalized? I would interject here that when we factor cyberspace into our
+considerations the question no longer seems relevant, as indigeneity, projected through the Internet, is
+itself global, however unevenly spread.
+The question of ‘globalized indigeneity’, to the extent that one can meaningfully speak of this,
+represents an important paradox of indigeneity: seemingly free floating whilst emphasizing local
+rootedness. I suggest that the globalized spread of motifs, practices, products, ideologies, cosmologies,
+organizations, media and support networks of indigeneity, especially on the Internet, have led to the
+construction of indigeneity as a macro phenomenon, lifted from the confines of any one location, and
+seemingly applicable to any other location. At this level, we are then speaking of an indigenous macrocommunity that is trans-local and constitutes a virtual meta-indigeneity. Indeed we might speak of a
+‘virtual’ indigeneity as in the sense of “being both related to and increasingly ‘disconnected’ from its
+formal referent” (Geschiere & Meyer 1998:606), that ‘formal referent’ previously seen as confined to
+distinct physical localities. We may thus be able to speak of interchangeable ‘local platforms’ and
+adaptable globalized meanings, motifs, and so forth, ultimately leading to a situation where the network is
+the indigene.[5] In this regard, it is important to underscore the extent to which the symbols and
+discourses of indigenous groups in one part of the world can and do impact the symbols and discourses of
+indigenous groups in another part of the world, especially on the Internet. On the other hand, this
+transmission and transference is not one that is multilateral in the case of Caribbean indigeneity, where
+North American Indian labels, motifs, and representations influence contemporary articulations of Caribbean
+indigeneity rather than vice versa.
+James Clifford speaks of the globalization of indigeneity using a “diaspora” metaphor. Noting the
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 7 of 30
+second part of the paradox above (local rootedness) he observes that, “tribal or ‘Fourth World’
+assertions of sovereignty and ‘first nationhood’ do not feature histories of travel and settlement, though
+these may be part of the indigenous historical experience. They stress continuity of habitation,
+aboriginality, and often a ‘natural’ connection to the land” (Clifford 1994:308). Noting the first part of
+the paradox (transnationalism, extra locality), he states:
+the kinds of transnational alliances currently being forged by Fourth World peoples contain
+diasporic elements. United by similar claims to ‘firstness’ on the land and by common histories
+of decimation and marginality, these alliances often deploy diasporist visions of return to an
+original place—a land commonly articulated in visions of nature, divinity, mother earth, and
+the ancestors. [Clifford 1994:309]
+Thus, “in claiming both autochthony and a specific, transregional worldliness, new tribal forms bypass an
+opposition between rootedness and displacement” (Clifford 1994:309). As I have been arguing here, ‘Internet
+indigeneity’ transcends this dichotomy between rootedness and transnationalism.
+There is a further paradox to be considered along the lines of structure and agency. Groups such as
+the SRCC, when viewed primarily in a local context, appear to demonstrate considerable agency in pursuing
+and affirming their international connections with other indigenous bodies. Yet, Caribbean Amerindian
+organizations are still largely peripheral to the globalization of indigeneity and continue to act as
+takers of metropolitan trends rather than makers of new global trends. For these organizations, the North
+American Indian-led international ‘resurgence’ of indigenous politics and motifs acts as both an
+inspiration, a fund of materials that can be drawn upon, and the standard by which one’s group is to be
+measured. Indeed, it seems that internationally broadcast news from the United States, Canada and Brazil
+relating to Native Americans, First Nations and Amazonian tribes may well have acted as a catalyst and as a
+paradigm for others to follow (see Conklin 1997:712-713). I would argue that the U.S., Canada, and Brazil
+are most likely the symbolic core of internationalized paradigms of indigeneity, providing perhaps a
+disproportionate amount of the motifs of indigeneity, the emblematic struggles, and the trademark
+representations of ‘indigenous issues’. As we shall see, this has direct implication for online
+representations of Caribbean indigeneity.
+In the final analysis, the processes discussed in this paper show ‘the local’ to be ‘multi-sited’
+within itself, that is, composed of a series of global currents, in contrast with Marcus’ notion of
+multiple sites as bounded geographic entities that exist ontologically apart from one another (see Marcus
+1995, 1986). This paper also outlines actors, processes and practices that demonstrate the “production of
+locality” (Appadurai 1996:178) as an inherent feature of the cultural globalization process. In this case
+the local is produced, in part, with globalized resources. Another way of seeing this is as a dialectic
+between global ‘flux’ and the quest for an orientational ‘fix’, or, as the tension between global flows and
+attempts at closure, to reaffirm boundaries and identities (Geschiere & Meyer 1998:602-603). Even in the
+case where North American Indian representations shape the articulation of Caribbean indigeneity on the
+Internet, we see an appropriation of symbols and motifs pertaining to the former under the heading of the
+latter.
+
+Offline Indigenes: Globalizing Caribbean Amerindians
+Within the confines of this paper, I can present only a brief introduction to the Santa Rosa
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 8 of 30
+
+Carib Community (SRCC) in the Borough of Arima, Trinidad. The SRCC is a formal organization that was
+incorporated as a limited liability company in 1976, in order to apply for a state land grant. SRCC
+documents emphasize that the group’s immediate needs are: (1) “recognition by society and government as a
+legitimate cultural sector”; (2) “research to clarify their cultural traditions and the issue of their
+lands”; and, (3) “support from appropriate institutions in their perceived need areas”. Since the 1970s,
+what was previously a group of inter-married families who were locally known as “Caribs” and who worked in
+preparing Arima’s annual Santa Rosa Festival, came under the leadership of individuals such as Bharath who
+progressively
+steered
+the
+group
+in
+the
+direction
+of
+greater
+formalization,
+bureaucratization,
+politicization and “cultural revival”.
+Gaining greater visibility has been a key issue for SRCC leaders in their quest to affirm their value
+in terms of having “contributed to the national cultural foundation” and to gain recognition of this value.
+Historically, a number of factors have impeded their acquiring a higher public profile within Trinidad. One
+of these stems from their being fixed in Arima, as a local group, instead of leading or forming part of a
+national movement of re-identification with Amerindian ancestry.[6] Secondly, the group itself is very
+small, with the core of the SRCC consisting of roughly only 30 people. Thirdly, SRCC members do not stand
+out as physically distinctive when compared with other Trinidadians. This is critical in a society such as
+Trinidad to the extent that racialized notions of ethnicity have long been dominant. In other words, the
+long-held conviction is that ‘extinction’ can occur via miscegenation (see Forte 2001a:123-127, 304-308),
+and thus the only “real Caribs” are the “pure Caribs” who also happen to be “dead Caribs”. As Yelvington
+(1995:142) observed, while some degree of choice of ethnic identification is possible in Trinidad, there
+are serious sanctions for “pretending to be what you are not”, or for being seen as engaged in pretense.
+Indeed, the SRCC’s visible association with an array of international indigenous groups who frequently
+exercise a presence on the ground in Trinidad, helps to offset these potential sanctions against
+individuals who locally might otherwise be seen as primarily ‘not pure’ or ‘not real Amerindians’. While
+the survival of Amerindians may not be the dominant narrative in Trinidad, what is more commonly or easily
+accepted is the notion that the society as a whole has inherited some “Amerindian cultural heritage” (Forte
+2001a:280-299). Thus SRCC leaders and spokespersons work on two fronts: (1) gaining recognition as “true
+Amerindians” from other peoples and organizations whose indigenous identity is not questioned locally; and,
+(2) in promoting themselves as the keepers of traditions that mark that “Amerindian cultural heritage” that
+has putatively shaped the wider “national culture” where this is seen to exist.
+With respect to promoting “Carib traditions”, amongst the goals of the SRCC, “maintenance” and
+“revival” are the two most important objectives, in the words of its key brokers. The main “retained
+traditions” to be maintained come under the headings of food (cassava processing), house building,
+handicrafts and the Santa Rosa Festival, and “traditional” or “bush” medicine to some extent. Traditions to
+be “revived” include: the Carib language and weaving using a variety of local palms that are still not used
+in their current weaving.
+The project of articulating, enacting and displaying the “Amerindian cultural heritage” can also
+become fused with seeking recognition and identity-validating associations with indigenous groups abroad.
+“Revival”, as SRCC leaders use the term, can blend in with their concept of “retrieval” which entails
+instituting traditions learned from historical and ethnographic texts, or reacquiring from elsewhere in the
+Caribbean and South America those traditions in place in contemporary indigenous communities. The process
+of reacquisition entails what they call “cultural interchange” between themselves and these other
+communities. SRCC brokers define cultural retrieval as the process of rediscovering, re-learning and
+practicing “the ancient ways”, including language, religious practices, and traditional costume. Cultural
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 9 of 30
+
+interchange involves the process of acquiring indigenous traditions (that they have ‘lost’, as
+Bharath says) from other Amerindian communities that are seen as still practicing them, and this involves
+considerable networking on the international front.
+By associating themselves with “resurgent” and “established” indigenous groups elsewhere in the
+Caribbean and the Americas, and in drawing on their symbolic resources, this has helped SRCC members to
+enhance their own identity and legitimacy as “indigenous” at the local level (cf. Mato 2000:352). SRCC
+leaders thus actively engage a regional Caribbean and international network of indigenous organizations and
+communities, and this interaction heightens their value and legitimacy locally. Owing to the SRCC’s
+international connections, their resulting status is heightened locally especially in an outward-oriented
+society such as Trinidad’s that values foreign appreciation, global exposure, and international connections
+as prestigious forms of validation. Thus the dissemination within Trinidad of metropolitan (i.e., European
+and North American) and wider international valorizations of the indigenous further bolsters the value of
+indigeneity at the national level. That a range of international organizations, such as the Organization of
+American States, the U.N.’s World Intellectual Property Organization, UNESCO, and indigenous organizations
+such as Canada’s Assembly of First Nations, the Assembly of Manitoba Chiefs, and the Federation of
+Saskatchewan Indian Nations, have all worked with the SRCC in some capacity at some time, only serves to
+heighten the profile of the group within the national politics of cultural value, and, the cultural
+politics of national value. It is difficult to overstate the depth and range of powerful affirmations of
+the importance of indigenous peoples as promoted in various international media over the decades, added to
+the growing visual association between celebrities, prominent world leaders and Amerindian images as
+presented in international news reports that are usually recycled in Trinidadian media or presented
+directly via cable television, the Internet, and in locally televised news. Thus the benefits of being
+visibly associated with “First Nations” in Canada, for example, aids them in obtaining greater local
+visibility, credibility and recognition as indigenous. This feedback from global to local is the offline
+equivalent of the V.E.R.A.city loop that I identified in Figure1.
+International exchange relationships thus become a central part of the local “recovery” of Amerindian
+traditions. Moreover, they are a source of validation. As one of the SRCC brokers wrote, in telling terms:
+“While the members of the SRCC are striving for recognition by the nationals of Trinidad and Tobago, they
+are accepted by all true Amerindians from the Mohawk council of tribal people of Canada and the United
+States, to the Carib Community of Dominica” (Almarales 1994:34, emphasis added). Almarales further
+emphasized: “They [SRCC members] are recognized as true Amerindian descendants outside Trinidad and
+Tobago” (1994:55).[7] In other words, how their identification as indigenous is developed and defined is,
+in part, in and through this internationalized network. The recent adoption by the SRCC of the “First
+Nations” designation is a trademark of this internationally networked sense of indigeneity. The concept of
+cultural interchange also implies, within reasonable limits, a network where local platforms are more or
+less interchangeable. The principle at work seems to be that what is “indigenous” over there can be
+“indigenous” here and maybe “indigenous” everywhere. As a result, the customs, costumes, and ceremonial
+practices of North American Indians have been adapted to some extent, added to personal links and visits to
+Seminole communities in the U.S., and contacts with Canadian First Nations. The development of the Smoke
+Ceremony in the SRCC reflects the manner in which they have become plugged into the offline world of
+internationalized indigeneity (see Forte 1998-1999b, 1998; Los Niños del Mundo 1999-2001b).
+Apart from understanding what the Internet is and how it works, “going online” posed no problems to
+SRCC leaders who in fact welcomed the opportunity. As a “hi-tech” instrument that pertains to an elite, the
+Internet can and does acquire a certain level of social prestige in Trinidad, at least as far as my
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 10 of 30
+
+informants seemed to indicate. In the case of Cristo Adonis, shaman of the SRCC and lead vocalist in
+an SRCC-affiliated band, Los Niños del Mundo, having such visibility on the Internet even inspired some to
+comment, perhaps enviously, that having a Website must mean that one is a “big man”—especially when we
+consider the skewed distribution of Internet access in Trinidad as I pointed out earlier. The fact that
+other Caribbean Amerindian groups already had Websites produced a certain “demonstration effect” as well,
+and the facility of having Websites designed and launched on their behalf only added to the value of
+undertaking an online presence. In having an online presence, the SRCC would thus achieve greater
+visibility (see TTWD 2001), at the local level (with many Trinidadian Internet users apparently keen to
+survey the range and types of Websites representing Trinidad), and especially among privileged members of
+the middle and upper classes with Internet access and with the resources that render them prime candidates
+as prospective patrons in the eyes of SRCC brokers. For their part, SRCC members do not, as a group or as
+individuals, even own a computer, and some cannot afford to have telephone connections. On the other hand,
+not even this helped to insulate them from the Internet, as some SRCC members received “snail mail
+downloads” from the Internet, in the form of printed packages of Web-based materials mailed to them from
+friends in the U.S. As I mentioned, I acted as the SRCC’s ‘cyberbroker’. I doubt that had I not involved
+myself in this manner that the SRCC would not have gained an online presence, and, indeed, one SRCCaffiliated broker has since launched a Website for a new group to have emerged from the SRCC (Stollmeyer
+2000). The Websites that I helped to produce (SRCC 1998-2001; Los Niños del Mundo 1999-2001a) required
+research in advance, on my part, sitting down and discussing what should be shown and how, what should be
+said or not, and what the scope and goals of the sites should be. As such, the Websites represent
+collaborative writing exercises, emerging from meetings, conversations, and interviews.
+The desire for greater visibility and recognition produces a parallel between the offline practice of
+the SRCC and the online practice of U.S.-based Taino groups. Much of my research with such groups occurred
+online: participation in listservs, e-mail interviews, and content analysis of Websites. The methodological
+problem that is posed here lies in the dangers inherent to reading backwards from online to offline
+motivations and organization. What I can do, with some margin of ‘safety’, is to outline here who the key
+actors are, the main stated intents of individuals, the idiom they use in self-representation, and the
+stated purposes of the organizations that they have formed. Before proceeding further, we should bear in
+mind that my online focus on Taino groups is not meant to imply that their existence or cultural practice
+as Taino groups only occurs online. From their own Websites one can see photographs of their participation
+in various festivals, Pow Wows, dances, prayer meetings, family gatherings, and arts and crafts
+exhibitions. Of course, these are snapshots of particular moments, capturing the fleeting scenes of a day’s
+activity. Yet, suddenly, they achieve permanence on the Internet, restructured in ways that Webmasters
+manage and edit, often with the implicit attempt of graphically inserting those shown, into dominant and
+symbolically powerful streams of globalized representations of indigeneity.
+There are at least five categories of online forms of Taino representation and site ownership. The
+first category consists of personal homepages, such as Valery ‘Nanturey’ Vargas-Stehney’s (2001) Bohio
+Bajacu: Taino Indian Website, an almost ‘classical’ personal page of the kind that was once prevalent in
+the early years of the Internet. On that site Vargas-Stehney states, in language that is representative of
+that found on most Taino sites: “My name is Nanaturey, short for Inaruri Gua Yuke Turey, (Valiant Woman
+from the White Earth’s Sky)….I am India Taina Boricua, Taino Indian Woman from the Island of Boriken, from
+the Tribes of Canobanas and Bayamon. I have always known about my Taino roots. My family is strong with the
+traditions of my Ancestors”. Another such site belongs to Bobby Gonzalez (2001), designed primarily as a
+resume type of site designed to announce himself as a “Native American Taino” lecturer, storyteller, poet,
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 11 of 30
+
+active in the Native American cultural scene. The second category of Taino Websites consists of
+“family” sites, often just personal homepages writ larger. One example of this is Baramaya (2001),
+describing itself as a group of families, gathered to restore a village and chiefdom recorded in the
+colonial chronicles of Puerto Rico, with members claiming origins in that part of Puerto Rico. Another
+example is Maisiti (2001), which also describes itself as a community of Taino families dedicated to
+cultivating Taino family life. Loosely fitting within this second category is Coqui’s Village (Coqui 2001)
+an online virtual ‘village’ of Taino organizations’ Websites and Taino businesses, including groups such as
+Maisiti.
+Taino arts and crafts Websites form the third category. One prominent example is Presencia Taina
+(2001a, 2001b), showcasing what it promotes as Taino arts, crafts, and dance. One branch of Presencia Taina
+states in terms of its purposes and activities offline:
+Our Taino projects serve the Caribbean indigenous community as well as other indigenous
+communities. To date, we have brought our programs to many places: elementary schools and
+universities, public and private institutions, parks and recreational facilities and public and
+private self help organizations. We service the old along with the young. The majority of our
+constituents come from low-income neighborhoods and communities that receive very little
+contact with the artistic cultural educational circles. We introduce these elements that have
+otherwise separated from each other to become whole once again. The response from these
+participants has been overwhelming, with an increased demand for our services. [Presencia Taina
+2001b]
+Another site is that of Biaraku (2001), describing itself as a “Taino Cultural Interest Group” and
+featuring a range of artistic creations such as sculptures, paintings and a wide array of poetry with Taino
+themes. In the case of Biaraku, as with Coqui’s Village above, it is unclear how many people are behind the
+online representation, or who they are specifically.
+The fourth category of sites consists of those that can be loosely called “informational”,
+meaning that they do not neatly fit into any of the previous categories and represent an attempt to simply
+provide what the site owners see as educational information. One example in this category is Taino Ancestry
+Legacy Keepers, Inc. (TALK 2000) which states that it is “a not-for-profit 501(c)(3) organization founded
+in 1998”, whose mission is, “to maintain Taino legacies by educating, informing and fostering a positive
+image to the general public on Taino ancestry, history, culture, historical sites and sacred ceremonial
+grounds by means of public forums, training sessions and conferences as well as publications and electronic
+means”, and it thus operates a “Taino Education Center” online. TALK also states that it is part of “Tanama
+Taino Yukayeke”[8], what it calls, “a tribal unit which is dedicated to the spiritual needs of our
+communities”, and to, “the preservation and promotion of awareness of the Taino culture and the honoring of
+our ancestors”. Biaraku, above, would also fit into this category.
+The fifth category, and by far the most visibly dominant of Taino Websites, comprises all those
+bodies that describe themselves as tribes, nations, confederations, or governments. The Jatibonicu Taino
+Tribal Nation (JTTN) is perhaps the most prominent online, in terms of traffic to its Website, links to its
+pages from a wide array of institutions, the number of pages that it maintains and its active online
+networking. The JTTN (2001) Website announces the body as a “Government”, and states that this, “tribal web
+site is a humble tribute to our honored Taino ancestor Cacike Orocobix (Principal Chief, Remembrance of the
+First Mountain) of the tribe of Jatibonicu and its Taino people. We of the Jatibonicu tribe are known as
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 12 of 30
+
+the ‘Great People of the Sacred High Waters’”. Again, it is difficult to ascertain the size of the group or
+where it is principally based (the JTTN says that is based in New Jersey and Puerto Rico). Indeed, when
+asked in an interview about the number of members, the head of the JTTN, Cacique (Chief) Pedro Guanikeyu
+Torres answered: “We maybe number 300, 3,000 or 30,000. At this point I can only say that we are an ethnic
+indigenous people that number in the thousands and that we are still growing as people are still returning
+back into the Taino family circle” (Vázquez 2001). Primarily, the JTTN seems motivated to gain recognition
+of Taino survival as such, and formal recognition of itself as a representative body—as Torres explained:
+“We seek to obtain the full Federal and State recognition and mutual respect between our common Governments
+in Puerto Rico and in the United States” (see Vázquez 2001). The JTTN testifies to having received the
+recognition of the State of New Jersey, as well as producing certificates conferred by the U.S. Census
+Bureau indicating, apparently, forms of indirect or implicit recognition (JTTN 2001). Pedro Torres adds
+that the JTTN is “seeking sovereignty as a Taino tribal nation within our Boriken (Puerto Rico) territorial
+homeland”.
+Based in The Bronx, New York, the Taino Turabo Aymaco Tribe of Boriken (TTAT 200) describes
+itself as a “Taino Native American Indian Tribe” and states that it is “the modern-day revival of the
+ancient Taino Native American Indian Tribe of the regions of Turabo Aymaco”. The spokesperson for the
+Turabo Aymaco Tribe, José ‘TureyCu’ Lopez, states on the Website that the motivation behind its members
+coming together is “for the sole purpose of genealogical research, maintaining and upholding Taino
+ancestral ways, and to educate each other about Taino history”. There is no indication of the number of
+members and little about the history of the group.
+The Ciboney Tribe, based in Florida, has an unstated membership size that consists mostly of
+middle and upper class ‘white’ Cubans. The group states on its site (Ciboney 2001) that its mission is
+“promoting [the] art and cultural heritage of the indigenous people of Cuba”. A previous version of the
+Website, which was still available in early 2000, featured photos of members and outlines of how they were
+organized according to certain clans, e.g., “the Lobster clan”, but graphically less ‘tribal’ pages have
+replaced these previous representations, with a move towards greater anonymity. None of the Puerto Rican
+Taino groups online has any overt relationship with the Florida-based Ciboney group.
+The United Confederation of Taino People (see UCTP 2001), based in New York, was formed in 1993
+as an attempt to unite the disparate and often competing Taino groups, and is headed by Roberto ‘Mucaro’
+Borrero (see Borrero 1999). On its site, the UCTP does not indicate its membership size, but does list
+several chapters across the Caribbean region and Hawaii. The UCTP, backed up by a letter from SRCC
+President Bharath that has been reproduced online, also represents Trinidad’s SRCC abroad. The UCTP has
+also become active in on a number of fronts: anti-globalization protests; in an online and offline campaign
+to obtain the revocation of the 1493 Papal Bull Inter Caetera; and, in various ceremonies held in New York
+to commemorate the annual United Nations International Day for the World’s Indigenous People held on 09
+August. The UCTP also publishes The Voice of the Taino People.
+In a manner that parallels the Trinidad SRCC’s quest for greater public association with
+indigenous groups in Dominica, Guyana, Canada and the U.S., Taino groups have also been active in the
+internationalizing aspect of the revival of Caribbean indigeneity. In their offline practice, Taino groups
+have attempted to insert themselves within wider currents of internationally recognized currents of
+indigeneity. As Dávila (1999:25) explains, Taino groups and associations “have tended to conceptualize
+themselves not so much in nationalist as in diasporic terms”, which calls to mind Clifford’s (1994)
+argument of the quasi-diasporic nature of internationalized indigenous organization. In addition, Dávila
+found that most of the Taino revivalists were either born or raised in the U.S., with most residing there,
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 13 of 30
+and it was in the U.S. that “most of the Tainos recouped their indigenous identity…in some cases directly
+instilled by experiences in the United States” (1999:19). The Native American movement played a key role,
+in ways that parallel the Canadian First Nations presence in the Caribbean. Many of today’s U.S.-based
+Tainos had experiences such as working on Native American publications, serving as translators to Central
+and South American indigenous delegations to the United Nations, participating in Native American Pow-Wows
+and other activities (Dávila 1999:19). Taino organizations have also received the backing of Canada’s
+Assembly of First Nations in seeking to have decrees promulgated by the Spanish Crown to protect the
+indigenes of Hispaniola accepted as valid treaties by the United Nations (see Barreiro & Laraque 1998).
+
+Online N-digenes: Electronically Generated ‘Revival’
+As I have been arguing thus far, there is an important and dynamic relationship between the
+offline and the online dimensions of cultural practice. I suggest that online practices of selfrepresentation are a vital facet of offline politics, shaped by them and shaping them in their turn. While
+we might then agree with the statement that, “every set of facts in virtual reality…is shadowed by a
+second, complicating set: the ‘real-life’ facts” (Kling 1996:439), this formulation remains incomplete.
+While realities are being constructed and disseminated on the Internet that have not yet taken root on the
+ground—i.e., a sovereign Taino government—it is important to recognize the possibility of the ‘real-life
+facts on the ground’ being reshaped and informed by electronically-generated realities.
+It is certainly the case that Internet practice is of value to those that have undertaken it—indeed,
+as their engagement with the Internet is not a ‘given’ that we can take for granted, the fact that it
+occurs must indicate that it is viewed by activists and brokers as a valuable and potentially efficacious
+medium compared with previously more restricted modes of self-representation. Many of the groups and
+individuals in question try to achieve online that which is substantially more difficult to achieve
+offline, that is, wider dissemination and greater recognition of the contemporary presence of Caribbean
+indigenes. It is also possible that what is asserted online is a hypercorrection for that which is under
+represented offline. The process may entail the construction of a virtual indigene resulting in an
+equivalent to that which Alcida Ramos called the “hyperreal Indian” (1994:161), an ‘Indian’ that is over
+constructed and reified. The Internet is a medium that enables heavy presentation—for example, many of the
+Taino sites are heavy in terms of beautification and elaborate appearance: large and vibrant graphics heavy
+with depictions of ‘traditional wear’ and various forms of plumage; petroglyphic symbols; ‘mood
+music’ (chants, songs, nature sounds), and, sky and starlight backgrounds in some cases. As has been widely
+observed in other areas of Internet culture, “individuals are disembodied and, in theory, unbound by the
+body’s constraints” (Doheny-Farina 1996:65), and can also ‘multiply’ themselves as a result, beyond
+scrutiny. In this vein, Doheny-Farina argues, “the World Wide Web…is primarily a graphics delivery system,
+a presentation medium masked as an interactive network. Deliberative rhetoric is defeated every time by
+image” (1996:79).
+“We are not extinct” is, as I flagged at the outset, the leitmotif of most Taino Websites. A
+number of these sites (JTTN 2001; TALK 2000; Vázquez 2001) report or reproduce published DNA studies
+conducted by Juan Carlos Martínez Cruzado at the University of Puerto Rico (see DRLAS 2000) that suggest
+the genetic continuity of Tainos in Puerto Rico. Other sites (i.e., TTAT 2001) reproduce articles in the
+Puerto Rican press on this issue (i.e., Ramirez 2001a, 2001b).
+Numerous Taino Websites also argue the case for Taino cultural survival, suggesting that Amerindian
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 14 of 30
+communities survived in remote mountain regions of Puerto Rico and Cuba, mixed into the rural peasant
+populations known as jibaros and guajiros respectively, or they speak of the survival of Amerindian customs
+(the making of cassava bread, for example), or about Amerindian stories told by grandmothers, while others
+simply emphasize their self-knowledge as Taino as being the result of spiritual revelations.
+Thus, Vargas-Stehney (2001) declares “We The Taino Are Still here”. The Jatibonicu Taino Tribal
+Nation declares: “We the Taino people of Borikén are still here” (JTTN 2001). Likewise, Biaraku (2001)
+argues:
+In spite of the myth of “extinction”, we, the descendants of the Taino people, have managed to
+survive despite all odds. Although most of us are of mixed origins, many of us retain the
+knowledge of our indigenous identity as a family legacy, others are striving to reclaim it, and
+others are still unaware of their Taino heritage. A heritage that encompasses more than place
+names and derived vocabulary, but a distinct a way of life that has meaning for us in the
+present time.
+Similarly, TALK (2000) stresses that though, “many of the Taino people died due to genocide, battles,
+illnesses and mass suicide to the point of extinction, as many have claimed”, they now have to claim this,
+“as untrue….Though the Taino culture has, to a great degree, been lost through assimilation, some folks
+‘around the world’ still call themselves Taino, and have carried on some Taino customs and traditions
+including ceremonies”. The Turabo Aymaco Tribe emphasizes that it is, “the modern-day revival of the
+ancient Taino Native American Indian Tribe of the regions of Turabo Aymaco”, representing, “those Taino
+Native Americans who died, and fled their homelands during the massacre that came with the arrival of
+Christopher Columbus to the Americas in 1492. Our tribe also represents those survivors and their
+descendants of the massacre” (TTAT 2001; cf. Torres 1996a). José ‘TureyCu’ Lopez, representing the Turabo
+Aymaco tribe, writes:
+I have been blessed with the high honor of restoring and breathing rebirth into the ancient
+Native American Taino Tribe of Aymaco, Borinken (Puerto Rico). Many will still declare that the
+Native American Taino Tribes of the Caribbean are extinct, but I, many scholars and others who
+know the real facts, know that this is a falsehood, perpetrated by those who do not want to see
+our Native American people once again thrive. Also I feel in my heart that if a person has the
+love of their ancestors in their heart and treasure their ways, then nothing is ever truly
+extinct. [Lopez 2001]
+Pedro Torres of the Jatibonicu Taino Tribal Nation also writes:
+We as a Taino people must start writing to anyone who is presently authoring articles of
+misinformation about the extinction of our Taino people and to correct those who are promoting
+this kind of misinformation about our Nation. It is the responsibility of a people to justly
+defend their Taino national sovereignty. In this way putting to rest once and for all, the
+false rumors that we as a people are extinct. [Torres 1996b]
+
+These perspectives on “Taino survival” are also being echoed and amplified across other Websites, as in the
+case of Richard Vázquez’s (2001) article in About.com, a fairly reputable and popular Web-based information
+resource. Vázquez tells readers in bold print, “the Caribbean Taino Indians have been considered extinct for
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 15 of 30
+
+hundreds of years, yet they have always been with us”, and then adds:
+History books and encyclopedias still refer to the Taino/Arawak people as the first tribe to be
+decimated by colonialism. It would be more appropriate to say that this was the first tribe to
+be ‘told’ they were extinct….Because the government does not recognize them or because they
+haven’t maintained a very public presence, we assume that their stories ended in our grade
+school textbooks saying they were conquered. While their governments and temples fell, the
+people remained and continued to influence our culture—and ancestry. [Vázquez 2001]
+Torres, head of the JTTN (2001), is keen to take advantage of the kind of exposure offered in these
+instances, as a means of directly reaffirming and disseminating his own theses of Taino survival (as in
+Vázquez 2001), with little or no critical opposition registered.
+Beyond assertions of survival, continuity, or reawakening, there is also a pronounced tendency
+among Taino Websites to immediately structure self-representation along the lines established in the
+dominant discourses of established North American Indian bodies. This graphically demonstrates the
+processes whereby newly established Taino groups read and sift through various globalized ideas, images and
+symbolic resources in order to define their indigeneity as ‘first nations’, which is itself a North
+American trope of indigeneity as Beckett (1996) argued. While the Internet allows Taino groups to project
+what they see as distinctly Taino and Caribbean aspects of Caribbean culture, especially in terms of
+iconography and material culture, and while the Internet may even help to strengthen the association
+between certain items and icons with ‘Taino identity’, in a manner that renders them emblematic of
+‘authentic’ Taino identity, some see the Internet as inducing pressures to “merge, interact, and
+standardize” (Zellen 1998). Indeed, apart from their actual residence in the U.S., there are two
+interrelated forces accounting for the tendency of Taino groups to structure their online representations
+in terms evocative of politicized forms of North American indigeneity: (1) the fact that North American
+modes of representing indigeneity have achieved a certain prestige, respectability, and worldwide exposure,
+hence the presumed obvious benefits for more marginal groups to be associated with this paradoxical
+subaltern mainstream; (2) the need to make ‘Taino identity’ communicable and intelligible to a wider online
+public that may well be unfamiliar with Caribbean Amerindian histories and cultures.
+Consciousness of the need for recognition by, and association with, North American indigenous
+bodies is represented in different ways by online Taino activists. This can range from something as simple
+as the otherwise counterintuitive listing of all Federally recognized Native American Indian tribes with
+contact details (TTAT 2001), to more explicit formulations of the need for Taino association with such
+bodies. For example, in an interview with the JTTN’s Pedro Torres, Vázquez (2001) asked: “How have you been
+received by the officially recognized tribes in the United States?” In response, Torres stated:
+They have received us as brothers with open arms. We have signed some peace treaties and look
+forward to establishing formal diplomatic ties with other Federally recognized tribal nations.
+There is one thing that binds all Native American Indian people and that is our common
+indigenous blood that binds us all into a common struggle for the survival of our people. We
+are of many tribal nations yet we are but ONE American Indian Nation. [Vázquez 2001]
+In order to insert themselves within more globalized and specifically North American patterns
+for representing indigeneity, and to gain direct and indirect recognition and legitimacy in the process, a
+number of Taino Internet specialists have been active in garnering online forms of recognition for Taino
+groups. One method, best exemplified by the active online networking of the JTTN’s Torres, is for Taino
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 16 of 30
+
+groups to be incorporated in listings of Native American Websites. In a letter to United Native America
+(UNA 2000), addressed to Mike Graham, Torres states with reference to a petition for a U.S. national Native
+American holiday:
+I believe that your petition does not cover the Taino Native American Indian people of the
+United States territory of Puerto Rico. We are the original people who greeted Christopher
+Columbus on October 12, 1492. Your petition covers the United States, Alaska and Hawaii and
+does not include the United States territory of Puerto Rico. Please add the US Territory of
+Puerto Rico to your petition as we who are Taino are also Native Americas.
+Mike Graham answered, seemingly without reservations: “As founder of United Native America I fully agree
+with your request to add the Taino Indian Nation of Puerto Rico to the holiday petition. We have sent a
+letter to the online petition support team to make this change”. The outcomes of such online networking can
+be seen in various examples. A page of “Hopi Links” lists the JTTN in its Native American Resources page
+(see Hopi 2001), as well as the UCTP. Rocha (2001) lists the JTTN amongst its “Indian Nations” list.
+Elsewhere, the JTTN is also included in a listing of “USA Tribal Governments (see NSCIA 2001). The JTTN is
+listed along with the UCTP on a Website under the title of “Native American Timeline” (Watson 2001).
+In addition to asserting Taino survival and seeking recognition among Native American bodies,
+some Taino organizations also structure their online self-representations in terms of ‘sovereign tribe’,
+‘nation’, and ‘government’, utilizing officialist discourse, and seeking to thereby achieve symbolic status
+as ‘Indian nations’ on par with Federally recognized bodies in the U.S., despite the lack of a land base,
+residential centers, or a significant mass of ‘citizens’. One example of this type of representation can be
+found in Barbados, with an organization called the Pan-Tribal Confederacy of Amerindian Tribal Nations,
+headed by Damon Gerard Corrie, who claims descent from Guyanese Arawak royalty (Corrie 2001). In an
+addition to language evocative of North American Indian confederacies and nations, we can also witness the
+appropriation of older anthropological notions of ‘tribe’ and ‘race’. In an e-mail interview, I asked
+Corrie what he meant by “tribal nation”, which he explained as follows: “A tribe is a group of families
+under a recognized chief and usually claiming a common ancestor. A nation is a people or race having a
+common descent, language, history, or political institutions. A tribal nation combines both” (Corrie 2000).
+Similarly, Torres (1996a) argued that, “the concept of nation comes from a people with the same common
+culture, race and beliefs”.
+That there is a network of interlinked, mutually referring, Taino Websites utilizing a variety
+of shared symbols and building on the fact of each other’s online presence, some might dispute whether they
+form an online ‘community’, a ‘virtual’ equivalent of the ‘tribal nation’ that is spoken of by Torres and
+Corrie above. The literature on electronic communities[9] is largely beyond the scope of this paper, apart
+from flagging certain key theoretical and methodological points. The first point requires that we move
+beyond rigid, idealized expectations of ‘community’ in terms of affective unity and social totality that
+seems to pervade much of the non-anthropological literature on electronic communities. For example, Kling
+(1996:426) observes that some analysts argue, “not every collection of people who happen to talk (or write)
+to each other form the sense of trust, mutual interest, and sustained commitments that automatically
+deserve to be labeled as communities” (emphasis added). Kling himself agues, “although highways connect
+places, they don’t always connect people in ways that build community” (1996:449). Others prefer to label
+online groupings as embodying special interests that can, at most, be labeled “lifestyle enclaves” that
+provide only a “sense of community” (Doheny-Farina 1996:50).[10] Others argue, still in critical terms,
+that computer networks can indeed foster ‘community’, via the fragmentation of knowledge that underlies the
+formation of specialized communities (Gregorian 1996:602). There is also research interest in the question
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 17 of 30
+of electronic time-space compression that permits at least a simulacrum of offline interpersonal relations
+that some see as a critical part of ‘community’, with discussions organized along the lines of face-to-face
+(FTF) versus computer-mediated communication (CMC), “virtual reality” (VR) versus “real life” (RL). Some
+will argue that accessibility and velocity can compensate for the challenges posed to proximity and
+immediacy by the great distances involved in global communication. As some observe, the acceleration of
+communication entails increased synchronization (cf. Gleick 1999, and Rheingold 1993 on “Real Time
+Tribes”), while some argue that a shared electronic ‘place’ can substitute for a shared physical space
+(Adamic & Adar 2001).
+I would argue that we need not let rigid definitions of ‘tribal nation’ and idealistic
+evaluations of the ‘true community’ impair our analysis of actual means and processes by which online Taino
+bodies form a collectivity, or a Webschaften. In the case of Taino networks on the Internet, we can
+delineate patterns of association and commonality in at least seven respects: (1) common interests
+(affirming Taino survival, seeking recognition as Tainos, association with Native American tribes); (2)
+related content (essays on Taino history and culture, information on archaeological sites, language
+resources; sometimes sites will appropriate content from other sites); (3) shared perspectives (exemplified
+by a shared idiom for expressing Taino indigeneity); (4) shared symbols (petroglyphic icons, zemis,[11]
+animal figures seen as sacred symbols in Taino cosmology); (5) boundaries (formed by sites crossreferencing each other for users, the granting of awards, and other typical examples being hyperlinks and
+‘Webrings’); (6) mutual advantage (the legitimacy of each site bolstered by the fact that other such sites
+exist as well, thus rendering any one Taino site less of a ‘one-click wonder’); and, (7) regular exchange
+(electronic newsletters, e-mail petitions, mailing lists, listservs, newsgroups, message boards, chat
+rooms, and individual e-mail messages).
+Stemming from these observations, I suggest that in doing an ethnography of such an online
+community
+one can document the growth and extent of the network by keeping track of these elements of the
+infrastructure and interaction. Over time, one should be able to develop a fairly clear idea of a
+particular constituency, its predominant interests, and its geographic concentration(s). In addition, one
+might be able to at least impressionistically gauge the intensity of the interactions, and the value the
+network holds for its members (see Forte 2001c).
+Of course, there is no gainsaying that Taino organizations have become almost notorious in some
+circles for their intense rivalry and frequent bickering. Some of the Taino Websites (e.g. Vargas-Stehney
+2001; TTAT 2001; JTTN 2001) explicitly refer to these intra-Taino conflicts, and in some cases we can also
+witness online forms of schism exemplified by the existence of two separate groups and sites under the
+title of Presencia Taina (2001a, 2001b). On the other hand, one could well argue that this competition
+demonstrates solidarity at a higher order by indirectly confirming that the building of the Taino presence
+possesses considerable value to those involved, in other words, that being seen as Taino is something worth
+fighting for.
+
+Outcomes: Representability and Credibility
+The question we face at this stage is whether or not the heightened visibility of Tainos and
+Caribs online translates into the kind of heightened representability in the sense that Friedman (above)
+suggests. I argue that heightened representability can be gauged in three different ways: (1) by the number
+and type of other agents and institutions that take indigenous representation on board as if it were there
+own project; and/or, (2) the active presence of agents and institutions that openly support, validate and
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 18 of 30
+
+extend the content and purposes of particular indigenous representations; and/or, (3) the wider circulation
+of particular representations, within a context of increased recognition and respect for particular
+representations.
+There are various examples of how Taino and Carib organizations and sites have been endorsed
+and validated in a manner that has heightened their visibility. The Encyclopaedia Britannica online has an
+entry for “Taino” that states: “Although Taino culture was largely wiped out, groups of Taino survived
+colonization….In 1998 the United Confederation of Taino People was created as an umbrella organization for
+the affirmation and restoration of Taino culture, language, and religion”. Given that encyclopaedias are
+often the first (and perhaps last) research resource used by young students and general members of the
+public, it is significant to find such validation of the UCTP. In addition, I recall that the first time I
+learned of the Jatibonicu Taino Tribal Nation was via the Website of the Discovery Channel which had an
+impressive array of pages devoted to an archaeological expedition centred on Taino history, but with added
+links to the JTTN as an apparently legitimate and valuable source of information from “Today’s Tainos”.
+In the case of the Santa Rosa Carib Community of Trinidad, their online presence has led, very
+quickly, to greater online appreciation and interest, with some offline translations. Given the SRCC’s
+interest in achieving greater recognition and material rewards for their role in maintaining and promoting
+what they see as key indigenous traditions and rituals, it is important that a number of tourist oriented
+Websites have appeared in the last two years that feature the SRCC. The Trinidad Tourist Board, in
+conjunction with Trinidad’s national airline, British West Indian Airways, advertises the Santa Rosa
+Festival in Arima as a celebration of the town’s “first peoples” (BWIA 2000). A tour package offering “six
+days of birding in Trinidad and Tobago” features “visits to Amerindian communities” in its itinerary
+(Earthfoot 2001). Other tourist sites, also feature Arima and its Carib Community as an attraction in
+various tour packages (MEP 2001, EHI 2001, Permenter & Bigley 2001). AmerindianTrail.com (Marchock 2001) is
+an eco-tourist and cultural-tourist site that is almost exclusively devoted to showcasing the SRCC.
+In addition to tourist interest, there has also been greater interest expressed by a number of
+academic researchers in the U.S., Canada, and U.K., with at least three graduate students undertaking, or
+planning to undertake, fieldwork with the SRCC for degrees in anthropology. University students working on
+research papers, added to numerous students at the secondary school level in the U.S. have also sought
+further information about the SRCC after encountering Websites on the SRCC. One freelance photographer,
+Marisol Villanueva, who learned of the SRCC via the Internet, visited Arima and produced a series of
+photographs to be displayed as part of a special exhibition at the National Museum of the American Indian
+in New York to be held in 2002. Individuals working on cookbooks, calendars, books on crafts, and school
+texts have also contacted the SRCC via e-mail after visiting their Websites in order to seek their inputs.
+Trinidadian media outlets that also have an online presence, such as The Trinidad Guardian and
+The Daily Express, have posted archives of their articles on the SRCC on the Internet, further adding to
+their wider visibility. The National Library of Trinidad, which had an online presence even before it had
+begun actual physical construction, features various articles on the SRCC as well (see NALIS 2001). In
+addition, the entry for Trinidad and Tobago in the Encyclopaedia Britannica online begins with mention of
+today’s Caribs of Arima.
+The two sites representing the SRCC (SRCC 1998-2001; Los Niños del Mundo 1999-2001a) have received
+several thousand visitors, several dozen e-mail messages, and several commercial propositions oriented
+toward events and services produced or offered by the SRCC and its members. Moreover, they have also acted
+as a beacon for various expressions of local and national pride among the Arimian and wider Trinidadian
+diaspora overseas. Indeed, numerous Trinidad sites operated by such individuals routinely feature links to
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 19 of 30
+
+the SRCC. These are added to Trinidad-based sites with content on Trinidad’s Amerindians produced by
+local journalists such as Kim Johnson (2000), Pan Trinbago (2000) which is the country’s steelband
+organization, or by private individuals interested in presenting Trinidad’s history online (Bermúdez Negrón
+2000-2001). I have surveyed the range of messages received by e-mail or posted on the SRCC sites. While as
+much as half of all the messages are genealogy-related, with numerous individuals either asserting their
+Carib ancestry (“my paternal grandmother belonged to the Carib tribe”) or wishing to research it further
+(“I am engaged in genealogical research of my mother’s family”), another large proportion of visitors
+consists of Arimians residing abroad, and the dominant thrust in the majority of messages is that of local
+and national pride in the Amerindians. Indeed, the number of such visitors claiming a Carib ancestry and/or
+expressing pride in the Carib heritage easily outnumbers the membership of the SRCC, pointing to the wider
+spread of this phenomenon. The following are some examples of these expressions: (1) “It is about time that
+the Caribs are recognized for their contribution to the island”. (2) “Hi, I am a Trinidadian, also a Carib
+descendent living in Oakland, California, U.S.A. I was surfing through the different sites and stumbled
+upon yours. Seeing the artifacts brought back a lot of memories”. (3) “Born and grew there in Calvary,
+Arima: Keep doing what you doing in enlightening people of the Carib people history in Trinidad”. (4) “I’ve
+been away from home for over 12 years now. I grew up in Sangre Grande, Toco, and Tunapuna. I am very, very
+proud to see that after all these years Trinidad, as a nation is coming to form and that the people who
+gave us the names of those homes we know so well are still there and that another generation will know that
+there is a Carib nation.”. (5) “This site not only took me back to my youth but also made me a bit
+homesick. I grew up with the Santa Rosa festival, it is part of who I am. Arima and the Carib Community are
+not mutually exclusive. You cannot separate one from the other. I am from a family of Parranderos and so
+proud to call Trinidad and in particular Arima...home!” (6) “My grandmother’s grandmother was Carib and I
+have cousins in Arima who are married to pure Carib Indians. We do have to keep our culture alive and
+there’s no better way to doing it than thru [sic] this medium. Although I now reside in the U.S. I know I
+can always browse home and my American friends/children can visit and experience what a diverse environment
+I was raised in”. (7) “I am a Trinidadian and lived in Arima. I attended Arima Girls RC School. I always
+attended the Santa Rosa Festival. Now that I am living in USA (Westchester), I miss the parang and the
+whole spirit of the festival. I am quite happy to see that the Caribs, natives of the island, is [sic]
+making headway i.e. in making other people see what they have to offer. (8) “May the ancestors guide and
+protect all the descendants of the indigenous peoples in Trinidad & Tobago”. Indeed, other studies in the
+U.S. have found that the number of people identifying with an indigenous heritage increased once Internet
+systems such as e-mail and Usenet newsgroups were put in place:
+People claiming Indian heritage began populating the newsgroups and mailing lists. Many people
+used the Internet to raise questions concerning their personal and collective identities and to
+share their histories. Before the Internet, these histories were only accessible through
+restricted classified systems at university or public libraries. In other words, the
+information came home and in exchange, people started to share their own oral histories
+regarding their indigenous experiences. [Delgado-P. & Becker 1998]
+
+Conclusions: Indigenous iScape
+Here’s the Internet, a world controlled by no one, like a vast television station without
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 20 of 30
+programmers or a newspaper without editors—or rather, with millions of programmers and editors.
+It’s a frontier, befitting its origins: unruly, impolite and anarchic. But also democratic.
+[JamesGleick, quoted in Doheny-Farina 1996:76]
+Questions of structure and agency come back to the fore when we try to delineate that
+electronic landscape, or iScape, within which indigeneity is constructed and expressed. Like Gleick above,
+Doheny-Farina argues, “the net levels hierarchies” given that it has become “so complex and decentralized
+that no power structure can control it (1996:75, 76). Similarly, Kling (1996:447) argues that in contrast
+with the pre-Internet epoch when publishing houses, editors, and librarians acted as gatekeepers and
+curators, today instead, “almost any Internet account holder can set up shop as a publisher and bypass the
+institutional apparatus of publishers and librarians to reach a large potential readership”, thus enabling
+authors, such as Taino Webmasters for example, to reach potentially large audiences. Indeed, at one point I
+discovered that the Website of the JTTN alone, in operation since 1996, had received more than 500,000
+unique visits. Whilst the agency of online brokers and Webmasters seems to be indisputably considerable,
+there are still constraints and restrictions that, fundamentally and ultimately, quietly work to determine
+who gets a say and who gets to hear what is being said.
+The structural aspect of this iScape can be analyzed in basic technological terms, communication
+infrastructure, access, and the uneven distribution of the knowledge necessary to produce an online
+presence. These considerations allude to what has come to be popularly known as the “digital divide”.
+Oguibe (1996) argues that the Internet indeed represents a new frontier, as in a new dividing line between
+rich and poor, thus erecting yet another Manichean border even as “cyberist discourse” claims to have
+destroyed all frontiers. In addition to the fact that there is unequal global access to, and thus use of
+the Internet, on the Internet itself certain agencies and institutions are able to exercise a more
+prominent presence than others, either due to custom or due to commerce. This observation is not based
+solely on recognizing the fact that corporations have the means to hire a substantial staff of Web
+technicians who can spend every day in marketing corporate websites, ensuring top rankings in search engine
+results, and paying to be promoted to the top of the list of various directories, as well as developing
+various software tricks that ensure maximum spread and the highest visibility on the Internet. Prestige
+garnered in the “real world” also works to ensure that certain sites are relied upon for “reliable”
+information more than others, such as encyclopaedias, recognized media outlets with considerable offline
+reputations, and so forth.
+Moreover, there is a center-periphery tension within the online representation of indigeneity (cf.
+Delgado-P. & Becker 1998). The fact remains that there is far more information on the Internet about
+Caribbean Amerindians than there is by them. In addition, amongst the indigenous population of the Americas
+as a whole, there is differential representation on the Internet. If one looks at the dmoz.org directory
+listing for “Indigenous Peoples”, one immediately notices that there are as many as 2,000 Websites listed
+for indigenous peoples in North America, yet, South America, which has an Indigenous population that may be
+as much as several times larger than that of North America, has only about 18 Websites listed. The
+Caribbean is somewhat anomalous here, with almost 200 Websites listed. The anomaly of the Caribbean can
+thus be summed up: a smaller indigenous population than either North or South America, yet a higher per
+capita proportion of indigenous-related Internet sites. How could this be so? On the one hand, the
+Caribbean contains a number of middle-income countries, such as Trinidad and Barbados, with Trinidad
+experiencing two economic booms over the last thirty years and with a population that, by Caribbean
+standards, is relatively better off economically. The Caribbean has a large diaspora population resident in
+nearby North America; on the other hand, the fact remains that a larger proportion of Caribbean Amerindian
+Websites have been produced by Caribbean people resident in North America, such as Taino individuals based
+in New York. The Caribs of St. Vincent, most of whom live in conditions of serious poverty, do not have a
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 21 of 30
+
+single site on the Internet, and were it not for their Garifuna comrades from Belize and residing in
+places such as New York, there might have been no mention of them at all on the Internet. Guyana, with one
+of the largest indigenous populations of the wider Caribbean, and as much as 500 times larger than
+Trinidad’s Caribs, has only a single Website belonging to any of its Amerindian peoples (Forte 2001b).
+Recent economic developments are not very promising where the future of online individual agency is
+concerned. Some have referred to the supposed “dot.communism” of the Internet, where so much has been
+available gratis: free e-mail, free Web development tools, free Website hosting, and even free Internet
+access. However, this “free” culture, funded as it was on the hope of advertising revenues, is in a steep
+decline. As someone with intimate involvement in monitoring and cataloguing Taino Websites, I have
+witnessed the disappearance of several which were hosted for free. In broader terms, as more privileged
+non-indigenous persons in the core gain ascendancy on the Internet, indigenous persons in the periphery
+risk being reduced to informants without agency (Delgado-P. & Becker 1998).
+The challenge then is not so much that of the Internet threatening to ‘wipe out’ indigenous cultures,
+as much as it is one that does not permit access and thus voice for those indigenous cultures that cannot
+afford information technology and that have no training in how to use it. My aim in this paper has thus
+been to describe and analyze the means and processes by which Caribbean indigenes have been transformed
+into N-digenes, the limitations of these processes, as well as what are undeniably numerous successes. My
+expectation is that Internet will soon become (if it is not already the case) the frontline in the
+assertion of the survival and/or revival of Caribbean Amerindian identities.
+About the Author
+The author recently completed his PhD in Anthropology at Adelaide University (Australia), with a
+dissertation titled, “Re-Engineering Indigeneity: Cultural Brokerage, the Political Economy of Tradition,
+and the Santa Rosa Carib Community of Arima, Trinidad and Tobago”. He has presented several papers on this
+subject at international colloquia and has published related articles in Cultural Survival Quarterly as
+well as on the Internet in Issues in Caribbean Amerindian Studies and Kacike: The Journal of Caribbean
+Amerindian History and Anthropology. He is the founding editor of Kacike (http://www.kacike.org) as well as
+the Caribbean Amerindian Centrelink (http://www.centrelink.org), an Internet platform for Caribbean
+Amerindian communities and related educational resources managed by an international editorial board.
+
+References
+Adamic, Lada A. and Eytan Adar. 2001. “Friends and Neighbors on the Web”. Internet Ecologies Project. Palo
+Alto,
+CA:
+XEROX
+Palo
+Alto
+Research
+Center
+(PARC).
+Available:
+http://www.parc.xerox.com/istl/groups/iea/papers/web10/index.html
+Almarales, Beryl. 1994. The Santa Rosa Carib Community from 1974-1993. Bachelor’s thesis, University of the
+West Indies, St. Augustine, Trinidad.
+APA. 2001. Amerindian Peoples’ Association: Guyana. Georgetown, Guyana: Sustainable Development Networking
+Programme. Available: http://www.sdnp.org.gy/apa/
+Appadurai, Arjun. 1996. Modernity
+University of Minnesota Press.
+
+at
+
+Large:
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Cultural
+
+Dimensions
+
+of
+
+Globalization.
+
+Minneapolis
+
+MN:
+
+Page 22 of 30
+
+Baramaya.
+2001.
+Baramaya:
+taino.com/new_page_3.htm
+
+a
+
+brief
+
+history.
+
+New
+
+York:
+
+Baramaya.
+
+Available:
+
+http://baramaya-
+
+Barreiro, José and Marie-Helene Laraque. 1998. “Canada First Nations Back Taino Treaty”. Native Americas
+Magazine:
+Hemispheric
+Digest,
+Winter.
+Available:
+http://nativeamericas.aip.cornell.edu/win98/win98hd.html#anchor293412
+Beckett, Jeremy. 1996. “Contested Images: Perspectives on the Indigenous Terrain in the Late 20th Century”.
+Identities 3 (1-2):1-13.
+Beridchewsky, Bernardo. 1989. “Del indigenismo a la indianidad y el surgimiento de una ideología indígena
+en Andinoamérica”. Canadian Journal of Latin American and Caribbean Studies 12(24):25-43.
+Bermúdez Negrón, René. 2000-2001. 300 Years Of Spanish Presence in Trinidad. Port of Spain, Trinidad: René
+Bermúdez Negrón. Available:
+http://community.wow.net/300history/toc.html
+Biaraku.
+2001.
+Biaraku:
+‘First
+People
+http://members.aol.com/staino/intro.html
+
+of
+
+a
+
+Sacred
+
+Place’.
+
+N.p.:
+
+Biaraku.
+
+Available:
+
+Bollinger, William, and Daniel Manny Lund. 1982. “Minority Oppression: Toward Analyses that Clarify and
+Strategies that Liberate”. Latin American Perspectives 9 (2) Spring:2-28.
+Borrero, Roberto Mucaro. 1999. “Rethinking Taino: A Taino Perspective”. In Taíno Revival: Critical
+Perspectives on Puerto Rican Identity and Cultural Politics. Gabriel Haslip-Viera, ed. Pp. 109-127. New
+York: Centro de Estudios Puertorriqueños, Hunter College, City University of New York.
+BWIA. 2000. BWIA Caribbean: Trinidad & Tobago. Port of Spain, Trinidad: British West Indian Airways.
+Available: http://www.bwiacaribbean.com/events/trinidad.htm
+CAC. 1998-2001. Caribbean Amerindian Centrelink. Arima, Trinidad, and Adelaide, Australia: CAC. Available:
+http://www.centrelink.org
+Ciboney. 2001. Ciboney Tribe:
+http://www.ciboneytribe.org
+
+Siboneyes
+
+de
+
+la
+
+Florida.
+
+Kendall,
+
+Cisler, Steve. 1998. “The Internet and Indigenous Groups”.
+http://cs.org/publications/CSQ/csqinternet.html#Cisler. N. pag.
+
+FL:
+
+Cultural
+
+Jorge
+
+Survival
+
+Luis
+
+Salt.
+
+Available:
+
+Quarterly.
+
+Available:
+
+Clifford, James. 1994. “Diasporas”. Cultural Anthropology. 9 (3) Aug:302-338.
+Conklin, Beth A. 1997. “Body Paint, Feathers, and VCRs: Aesthetics and Authenticity in Amazonian Activism”.
+American Ethnologist. 24 (4) Nov:711-737.
+Corrie, Damon Gerard. 2001. Pan-Tribal Confederacy of Amerindian Tribal Nations: Official Political and
+Economic
+Affairs
+Website
+Index.
+Bridgetown,
+Barbados:
+Damon
+G.
+Corrie.
+Available:
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 23 of 30
+http://pantribalconfederacy.com/
+—————. 2000, 12 June. Interview by E-mail with Maximilian C. Forte (mcforte@bigpond.com). Sent to recipient
+from Damon Corrie (fninvestments@sunbeach.net)
+Coqui. 2001. Coqui’s Village. New York: Indio.net. Available: http://www.indio.net/
+Cultural
+Survival
+Quarterly.
+1998.
+The
+http://cs.org/publications/CSQ/csqinternet.html.
+
+Internet
+
+and
+
+Indigenous
+
+Groups.
+
+Available:
+
+Dávila, Arlene. 1999. “Local/Diasporic Tainos: Towards a Cultural Politics of Memory, Reality and Imagery”.
+In Taíno Revival: Critical Perspectives on Puerto Rican Identity and Cultural Politics. Gabriel HaslipViera, ed. Pp. 11-29. New York: Centro de Estudios Puertorriqueños, Hunter College, City University of New
+York.
+Delgado-P., Guillermo, and Marc Becker. 1998. “Latin America: The Internet and Indigenous Texts”. Cultural
+Survival Quarterly. Available:
+http://cs.org/publications/CSQ/csqinternet.html#Becker. N. pag.
+Delphis. 2001a. Delphis Ltd.: Website Design,
+Available: http://www.delphis.dm/dolphin.htm
+
+Development
+
+and
+
+Promotion.
+
+Roseau,
+
+Dominica:
+
+Delphis.
+
+—————. 2001b. A Virtual Dominica. Roseau, Dominica: Delphis. Available: http://www.delphis.dm/home.htm
+Díaz-Polanco, Héctor. 1982. “Indigenismo, Populism, and Marxism”. Latin American Perspectives (Issue 33) 9
+(2) Spring:42-61.
+DRLAS. 2000. “Some Important Research Contributions to the Study of Population History and Anthropology in
+Puerto Rico: Interview with Dr. Juan Carlos Martinez Cruzado”. Delaware Review of Latin American Studies 1
+(2) Aug. Available: http://www.udel.edu/LASP/Vol1-2MartinezC.html
+Dodge,
+Martin.
+2001.
+An
+Atlas
+of
+Cyberspaces.
+http://www.cybergeography.org/atlas/geographic.html
+Doheny-Farina, Steven.
+
+N.p.:
+
+Martin
+
+Dodge.
+
+Available:
+
+1996. The Wired Neighborhood. New Haven CT: Yale University Press.
+
+Earthfoot. 2001. Six Days of Birding in Trinidad and Tobago. Port of Spain, Trinidad: Earthfoot. Available:
+http://earthfoot.org/places/tt001.htm
+EHI. 2001. Trinidad & Tobago: A Birder’s Paradise. N.p.:
+http://www.elderhostel.org/catalog/int/FAJ/sumI06D01000.html
+
+Elder
+
+Hostel
+
+International.
+
+Available:
+
+Field, Les. 1994. “Who are the Indians?” Latin American Research Review 29 (3):227-238.
+Forte, Maximilian C. 2001a. Re-engineering indigeneity: cultural brokerage, the political economy of
+tradition and the Santa Rosa Carib Community of Arima, Trinidad and Tobago. Ph.D. diss., Adelaide
+University.
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 24 of 30
+
+—————. 2001b. “Virtual Imperialism?” The CAC Review: Newsletter of the Caribbean Amerindian Centrelink 2(1)
+Jan. Available:
+http://www.centrelink.org/Review.html#Article. N. pag.
+—————. 2001c. A Web-based presentation on the making of an electronic network: the case of the Caribbean
+Amerindian Centrelink.
+http://www.centrelink.org/files/MaxForteSymposium.htm
+—————. 1998-2001a. The First Nations of Trinidad and Tobago.
+Available: http://www.angelfire.com/ma/maxforte/index.html
+
+Arima,
+
+Trinidad:
+
+Maximilian
+
+C.
+
+Forte.
+
+—————. 1998-2001b. A University of Adelaide Anthropological Field Project on Trinidad’s Self-Identified
+Amerindian
+Descendants,
+1998-1999.
+Arima,
+Trinidad:
+Maximilian
+C.
+Forte.
+Available:
+http://members.theglobe.com/mcforte/default.html (link no longer operative)
+—————. 1998-2001c. Gateway to the Caribs of Trinidad and Tobago. Arima, Trinidad: Maximilian C. Forte.
+Available:
+http://members.tripod.com/Trinidad_TobagoCARIB/Carib.htm
+—————. 1998-1999a. “The International Indigene: Regional and Global Integration of Caribbean Amerindian
+Communities”.
+Issues
+in
+Caribbean
+Amerindian
+Studies
+1
+(1)
+Sep.
+Available:
+http://www.centrelink.org/II.html. N. Pag.
+—————. 1998-1999b. “From Smoke Ceremonies to Cyberspace: Globalized Indigeneity, Multi-Sited Research, and
+the
+Internet”.
+Issues
+in
+Caribbean
+Amerindian
+Studies
+1
+(1)
+Sep.
+Available:
+http://www.centrelink.org/Internet.html. N. Pag.
+—————. 1998. Photo gallery of the shaman’s smoke ceremony. Arima, Trinidad: First Nations of Trinidad and
+Tobago. Available:
+http://www.angelfire.com/ma/maxforte/smokeA.html
+Friedman, Jonathan. 1999. “Indigenous Struggles and the Discreet Charm of the Bourgeoisie”. The Australian
+Journal of Anthropology. 10 (1) Apr:1-14.
+—————. 1994. Cultural Identity and Global Process. London: Sage.
+—————. N.d. “Transnationalization, Socio-Political Disorder and Ethnification As Expressions of Declining
+Global Hegemony”. Available:
+http://www.soc.lu.se/san/papers/transnateth.html
+Friedman, Thomas L. 2001. “Digital Divide or Dividend?”
+http://www.nytimes.com/2001/03/16/opinion/16FRIE.html
+
+The
+
+New
+
+York
+
+Times.
+
+16
+
+March.
+
+Available:
+
+Geschiere, Peter and Birgit Meyer. 1998. “Globalization and Identity: Dialectics of Flow and Closure”.
+Development and Change 29:601-615.
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 25 of 30
+Giddens, Anthony. 1990. The Consequences of Modernity. Stanford: Stanford University Press.
+Gleick, James. 1999. Faster: The Acceleration of Just About Everything. New York: Pantheon Books.
+Gonzalez, Bobby. 2001. Native American/Latino, Lecturer, Storyteller and Poet. New York: Bobby Gonzalez.
+Available: http://www.bobbygonzalez.com
+Gregorian, Vartan.
+1996. “Technology, Scholarship, and the Humanities: The Implications of Electronic
+Information”. In Charles Dunlop and Rob Kling, ed., Computerization and Controversy: Value Conflicts and
+Social Choices, 2nd ed. San Diego: Academic Press. 597-605.
+Haslip-Viera, Gabriel. 1999. “Introduction”. In Taíno Revival: Critical Perspectives on Puerto Rican
+Identity and Cultural Politics. Gabriel Haslip-Viera, ed. Pp. 1-10. New York: Centro de Estudios
+Puertorriqueños, Hunter College, City University of New York.
+Hopi.
+2001.
+Native
+American
+Resources.
+http://fraktali.849pm.com/text/hopi/nativelinks.html
+
+N.p:
+
+Hubka, Renee. 1997. ‘Gli Gli’: The
+http://www.delphis.dm/gligli/index.html
+
+Roseau,
+
+Carib
+
+Canoe
+
+Project.
+
+N.
+
+pub.
+
+Available:
+
+Delphis.
+
+Available:
+
+Dominica:
+
+IBRD. 2001. Country Competitiveness Indicators, Trinidad and Tobago. Washington DC: The World Bank Group.
+Available:
+http://wbln0018.worldbank.org/psd/compete.nsf/1f2245620075540d85256490005fb73a/b2204a92c9209bf5852564e40068dc61?
+OpenDocument
+ITU. 2001. Information Technology Statistics by Country. Geneva: International Telecommunications Union.
+Available:
+http://www.itu.int/ITU-D/ict/statistics/at_glance/Internet00.pdf
+Johnson, Kim. 2000. The Story of the Caribs and the Arawaks, Parts 1-6. Port of Spain, Trinidad: S.E.L.F.
+Education 2000 RaceAndHistory.com. Available:
+http://www.raceandhistory.com/Taino/
+Jones, Steven G.
+1995. “Understanding Community in the Information Age”. In Cyber-Society: ComputerMediated Communication and Community. Steven G. Jones, ed. Thousand Oaks, CA: Sage Publications.
+JTTN. 2001. Government of the Jatibonicu Taino Tribal Nation of Boriken. Vineland, NJ: Jatibonicu Taino
+Tribal Nation. Available: http://www.taino-tribe.org/jatiboni.html
+Kalinago e.V. 2001a. Kalinago e.V.: Association for the Promotion of the last Indigenous People of the
+Caribbean (Verein zur Förderung des letzten indigenen Volkes der Karibik). Frankfurt: Kalinago e.V.
+Available: http://www.kalinago.org/english/index.html
+—————.
+2001b.
+Kalinago
+e.V.
+in
+its
+Third
+http://www.kalinago.org/english/text/kalinago3year.htm
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Year.
+
+Frankfurt:
+
+Kalinago
+
+e.V.
+
+Available:
+
+Page 26 of 30
+Kling, Rob. 1996. “Social Relationships in Electronic Forums: Hangouts, Salons, Workplaces, and
+Communities”. In Computerization and Controversy Value Conflicts and Social Choices, 2nd ed. Charles Dunlop
+and Rob Kling, eds. Pp. 426-454. San Diego: Academic Press.
+Kottak, Conrad and Elizabeth Colson. 1994. “Multilevel Linkages: Longitudinal and Comparative Studies”. In
+Assessing Cultural Anthropology. Robert Borofsky, ed. Pp. 396-412. New York: McGraw-Hill, Inc.
+Lea, Martin, ed. 1992. Contexts of Computer-Mediated Communication. New York: Harvester Wheatsheaf.
+Lopez, José ‘TureyCu’. 2001. Press Release, August 2000. Bronx, NY: Taino Turabo Aymaco Tribe. Available:
+http://www.indio.net/aymaco/page2.htm
+Los Niños del Mundo. 1999-2001a. Cristo Adonis’ Los Niños del Mundo: Trinidad Parang Website. Arima,
+Trinidad: Cristo Adonis’ Los Niños del Mundo. Available:
+http://www.freeyellow.com/members6/trinidadtobagoparang/shaman.html
+—————. 1999-2001b. The shaman’s tool kit: photo gallery. Arima, Trinidad: Cristo Adonis’ Los Niños del
+Mundo. Available:
+http://www.freeyellow.com/members6/trinidadtobagoparang/shaman.html
+Maisiti.
+2001.
+Maisiti
+Yukayeke
+http://www.indio.net/maisiti/
+
+of
+
+the
+
+Marchock,
+Ryan.
+2001.
+Amerindian
+http://www.amerindiantrail.com/index2.htm
+
+Taino
+
+Tribe.
+
+Trail.
+
+N.p.:
+
+Bronx,
+
+NY:
+
+Indio.net.
+
+AmerindianTrail.com.
+
+Available:
+
+Available:
+
+Marcus, George E. 1995. “Ethnography in/of the World System: The Emergence of Multi-Sited Ethnography”.
+Annual Review of Anthropology 24:95-117.
+—————. 1986. “Contemporary Problems of Ethnography in the Modern World System”. In Writing Culture: The
+Poetics and Politics of Ethnography. James Clifford and George E. Marcus, eds. Pp. 165-193. Berkeley:
+University of California Press.
+Mato, Daniel. 2000. “Transnational Networking and the Social Production of Representations of Identities by
+Indigenous Peoples’ Organizations of Latin America”. International Sociology 15 (2) Jun:343-360.
+MEP. 2001. Discover Trinidad and Tobago: Exploring Trinidad. Port of Spain, Trinidad: Media and Editorial
+Projects Ltd. Available:
+http://www.discovertobago.com/trinexplore.html
+NALIS. 2001. Communities. Port of Spain, Trinidad: National Library and Information System Authority of
+Trinidad and Tobago. Available:
+http://www.nalis.gov.tt/Communities.htm
+NSCIA. 2001. USA Tribal Governments. Bethesda, MD: National Spinal Cord Injury Association. Available:
+http://www.spinalcord.org/chapters/native_american_governments.htm
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 27 of 30
+NUA. 2001a. Latin America: Internet Population. NUA Internet Surveys. Dublin: ComputerScope Ltd. Available:
+http://www.nua.ie/surveys/how_many_online/s_america.html
+—————. 2001b. Worldwide Internet Population. NUA Internet Surveys. Dublin: ComputerScope Ltd. Available:
+http://www.nua.ie/surveys/how_many_online/world.html
+ODP.
+2001.
+Open
+Directory—Profile—cariblink.
+http://dmoz.org/profiles/cariblink.html
+
+N.p.:
+
+Open
+
+Directory
+
+Project.
+
+Available:
+
+Oguibe, Olu. 1996. “Forsaken Geographies Cyberspace and the New World ‘Other’”. Paper presented at the 5th
+International Cyberspace Conference, Madrid, June. Available: http://eserver.org/internet/oguibe/
+Palacio, Joseph. 1992. “The Sojourn Toward Self-Discovery Among Caribbean Indigenous Peoples”. Caribbean
+Quarterly 38 (2-3) Jun-Sep:55-72.
+—————. 1989. “Caribbean Indigenous Peoples Journey Toward Self-Discovery”. Cultural Survival Quarterly 13
+(3):49-51.
+PanTrinbago. 2000. The Amerindians of Trinidad and
+Available: http://www.pantrinbago.com/Amerinidian1.htm
+
+Tobago.
+
+Port
+
+of
+
+Spain,
+
+Trinidad:
+
+Pan
+
+Trinbago.
+
+Permenter, Paris, and John Bigley. 2001. “Festive Islands: Trinidad and Tobago”. N.p.: Travellady.com.
+Available: http://www.travellady.com/ARTICLES/article-festiveislands.html
+Polly, Jean Armour. 1998. “Standing Stones in Cyberspace: The Oneida Indian Nation’s Territory on the Web”.
+Cultural Survival Quarterly. Available: http://cs.org/publications/CSQ/csqinternet.html#Polly. N. pag.
+Presencia Taina. 2001a. Atihuibancex:
+http://www.presenciataina.net
+—————.
+2001b.
+Atihuibancex:
+http://www.presenciataina.org
+
+Mountain
+
+Mountain
+
+Wind
+
+Wind
+
+Group.
+
+Group.
+
+New
+
+New
+
+York:
+
+York:
+
+Presencia
+
+Roger
+
+Taina.
+
+Available:
+
+Hernandez.
+
+Available:
+
+Ramirez, Gladys Nieves. 2001a. “Con herencia indígena 62% de los boricuas”. El Nuevo Día (Puerto Rico),
+Friday, 04 May. Available:
+http://www.endi.com/locales/html/p58c03m5.asp
+—————. 2001b. “Misioneros de la cultura taína”. El Nuevo Día (Puerto Rico), Friday, 04 May. Available:
+http://www.endi.com/locales/html/p58b03m5.asp
+Ramos, Alcida. 1994. “The Hyperreal Indian”. Critique of Anthropology. 14 (2):153-171.
+Rheingold, Howard. 1993. The Virtual Community: Homesteading on the Electronic Frontier. Reading, MA:
+Addison Wesley.
+Riviere, Raglan Eugene. 2001. The Caribs of Dominica.
+http://www.geocities.com/Athens/Agora/3820/carib.html
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Ottawa,
+
+Canada:
+
+Raglan
+
+E.
+
+Riviere.
+
+Available:
+
+Page 28 of 30
+
+Robertson, Roland. 1992. Globalization: Social Theory and Global Culture. London: Sage.
+Rocha,
+Victor.
+2001.
+Indian
+Nations.
+http://pechanga.net/indian_nations.htm
+
+N.p.:
+
+Victor
+
+Rocha
+
+Communications,
+
+LLC.
+
+Available:
+
+SRCC. 1998-2001. The Santa Rosa Carib Community. Arima, Trinidad: Santa Rosa Carib Community, Maximilian C.
+Forte. Available: http://SRCC1CaribCommunity.tripod.com/
+Stollmeyer, John. 2000. Kairi Tukuienyo Karinya. Port of
+Available: http://www.angelfire.com/id/kairi/tukuienyo.html
+TALK.
+2000.
+Taino
+Ancestry
+http://www.indio.net/talk/index.html
+
+Legacy
+
+Keepers,
+
+Inc.
+
+Spain,
+
+Trinidad:
+
+Bronx,
+
+NY:
+
+Turtle
+
+Island
+
+Indio.net.
+
+Children.
+
+Available:
+
+TTAT. 2001. The Native American Indian Taino Turabo Aymaco Tribe of Boriken. Bronx, NY: José ‘TureyCu’
+Lopez. Available: http://www.indio.net/aymaco/index.html
+TTWD. 2001. Native People of Trinidad and Tobago: The Trinidad and Tobago Web Directory, Society and
+Culture. Port of Spain, Trinidad: Search.co.tt. Available: http://www.search.co.tt/dir/native/
+Torres, Pedro. 1996a. “The Historical Roots of a Nation”. Vineland, NJ: Jatibonicu Taino Tribal Nation.
+Available: http://www.hartford-hwp.com/Taino/docs/Tnation.html
+—————. 1996b, 22 September. Message to Prof. Bob Corbett: “Chief Torres of Arawak Indian Descent Denies
+Claims
+of
+Genocide”,
+from
+Pedro
+Torres
+(torresp@algorithms.com).
+Available:
+http://www.webster.edu/~corbetre/haiti/history/precolumbian/genocide.htm
+UCTP. 2001. The United Confederation Of Taino People (UCTP)—Honoring Caribbean Indigenous Peoples: Past,
+Present and Future. New York: Indigenouspeople.org. Available: http://www.indigenouspeople.org/natlit/uctp/
+UNA. 2000, 23 August. E-mail exchange between Pedro Torres (JTTN@Taino-Tribe.Org) of the Jatibonicu Taino
+Tribal Nation and Mike Graham (mgmikelgraham@gateway.net) of United Native America (regarding Native
+American bodies listed on the petition for a Native American Holiday). N.p.: United Native America.
+Available: http://www.unitednativeamerica.com/ah1a.htm
+UNDP. 2001. Trinidad and Tobago: Facts and Figures. Port of Spain: United Nations Development Program.
+Available: http://www.undp.org.tt/tt/ttfacts.htm
+USDoS. 1998. Background Notes: Trinidad and Tobago. Washington, DC: United States, Department of State,
+Bureau
+of
+Inter-American
+Affairs.
+Available:
+http://www.state.gov/www/background_notes/trinidad_tobago_0398_bgn.html
+Varese, Stefano. 1982. “Restoring Multiplicity: Indianities and the Civilizing Project in Latin America”.
+Latin American Perspectives (Issue 33) 9(2) Spring:29-41.
+Vargas-Stehney, Valery ‘Nanturey’. 2001. Bohio Bajacu: Taino Indian Website. N.p.: Valery ‘Nanaturey’
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 29 of 30
+
+Vargas-Stehney. Available: http://www.angelfire.com/ct/taino/index.html
+Vázquez, Richard L. 2001. “The Taino Survival”. N.p.: Las Culturas.com. Available:
+http://www.lasculturas.com/aa/aa100900a.php
+Watson, Robert A. 2001. Native American Timeline. N.p.: Raw.communications. Available: http://www.channele-philadelphia.com/natresources.html
+Yelvington, Kevin A. 1995. Producing
+Philadelphia: Temple University Press.
+
+Power:
+
+Ethnicity,
+
+Gender
+
+and
+
+Zellen, Barry. 1998. “Surf's Up!: NWT’s Indigenous Communities
+Information”. Cultural Survival Quarterly. Available:
+http://cs.org/publications/CSQ/csqinternet.html#Zellen. N. pag.
+
+Class
+
+Await
+
+a
+
+in
+
+a
+
+Tidal
+
+Caribbean
+
+Workplace.
+
+Wave
+
+Electronic
+
+of
+
+This paper is a longer and substantially different version of one that is to appear in print in late 2002
+under a different title, as part of a collection edited by Dr. Kyra Marie Landzelius titled, Going Native
+on the Net: Indigenous Cyber Activism, and to be published by Routledge. While this paper is twice as long
+as the print version, and thus contains materials and issues not covered by the shorter version, I am
+nonetheless thankful to the volume editor and Routledge for their assurance that no conflicts obtain.
+[1] I also conducted ethnographic research in the Carib Reserve of Dominica during September 1998, with
+respect to relations between Dominica Caribs and the SRCC in Trinidad.
+[2] By this distinction I mean that “reorganized” groups consist of those building on previous communal
+formations, yet reformulating, reinterpreting and reinventing those formations for contemporary purposes.
+By “new revivalist” I mean those groups that have been recently created, such as the many Taino groups
+formed in New York in the 1990s amongst members of the Puerto Rican diaspora who were not previously
+organized along the lines of indigenous identification. This distinction is not meant to obscure the fact
+that both such groups proclaim themselves to be engaged in ‘cultural revitalization’.
+[3] For further information about the ODP, which bills itself as “the Republic of the Web” see:
+http://dmoz.org/about.html. For more information about my editorial role, see ODP (2001).
+[4] Of course, answers to this question may turn out to be substantially more complicated. In the case of
+the Dominica Caribs, thanks to the efforts of various NGOs, representative bodies have in fact achieved
+some limited access to information technology, yet, the evidence suggests that this is being under utilized
+nevertheless. A German NGO remarked: “We continue to be dissatisfied with the level of contact with the
+Caribs. Despite all the advanced technological developments that aid communication this has remained a
+sticking point. Letter, fax, and e-mail exchange are often one-sided and can be drawn out over months.
+Despite new technology we continue to rely as before on personal contact” (Kalinago e.V. 2001b).
+[5] Here I am adapting the Sun Microsystems’ motto—the Network is the Computer—and refers to a vision of
+computers as basically empty shells, or mere terminals, connected to a network that is the centralized and
+global source of ‘localized’ computing.
+[6] Statistical breakdowns of Trinidad and Tobago’s multiethnic population show 39.5% as ‘African’, 40.3%
+as ‘East Indian’, 18.4 % as ‘mixed’, 0.6% as ‘European’, and 1% as ‘other’ (USDoS 1998).
+[7] Expressions of international support for the SRCC can come from as far away as Australia—an entry in
+the guest book of the Caribbean Amerindian Centrelink at (CAC 2001) read as follows: “I am of Dhauwurd
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+Page 30 of 30
+Wurrung heritage from country in south west Victoria, Australia. We here at home give our support to you
+our cousins across nyamat, to achieve your rightful places in today’s society and to hang onto your
+culture. We all are still creating the Dreaming”.
+[8] Yukayeke is commonly translated as “village” by these groups.
+[9] There is a growing body of literature focused on the concept of communities ‘online’, albeit a focus
+that is bifurcated along the lines of: (1) electronic networks for communities ‘on the ground’, and, (2)
+‘virtual’ communities that are formed entirely on the Internet. The first promised to bolster
+‘geophysically’ situated demographic bodies, while some argue that the second substitutes for them
+altogether (cf. Jones 1995; Kling 1996:426; Lea 1992).
+[10] Doheny-Farina explains: “lifestyle enclaves are segmental because they describe only parts of their
+members’ private lives—usually their behaviors of leisure and consumption—and celebrate the ‘narcissism of
+similarity’ through the common lifestyles of their members” (1996:50).
+[11] Usually carved from wood or stone and not much bigger than can be held in a hand, these are seen as
+containing spirits and are often associated with shamans and chiefs, sometimes depicting skeletal yet
+fertile representations of shamans.
+
+Sincronía Spring 2002
+Sincronía General Index
+
+ISSUES IN INDIGENOUS CARIBBEAN STUDIES (back issue)
+
+
