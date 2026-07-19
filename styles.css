@@ -864,5 +864,106 @@ img {
   font-size: 1.15rem;
 }
 
+/* Connect Page styling */
+.connect-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  margin-top: var(--spacing-xl);
+}
+
+.social-links-container {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: var(--spacing-lg) 0;
+}
+
+.social-icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: var(--border-radius-full);
+  color: white !important;
+  font-size: 1.35rem;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s ease;
+}
+
+.social-icon-btn.facebook { background-color: #1877f2; }
+.social-icon-btn.instagram { background-color: #fe005c; }
+.social-icon-btn.youtube { background-color: #ff0000; }
+
+.social-icon-btn:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  opacity: 0.9;
+}
+
+.hours-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: var(--spacing-lg) 0;
+  text-align: left;
+}
+
+.hours-card {
+  background: var(--color-background);
+  padding: 1.25rem 1.5rem;
+  border-radius: var(--border-radius-md);
+  border: 1px solid var(--color-border);
+}
+
+.hours-card h4 {
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-xs);
+  font-size: 1.15rem;
+}
+
+.map-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+  margin: var(--spacing-lg) 0;
+}
+
+.map-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.form-container {
+  width: 100%;
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+  margin-top: var(--spacing-xl);
+  background: var(--color-surface);
+}
+
+@media (max-width: 768px) {
+  .connect-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .hours-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
 
 

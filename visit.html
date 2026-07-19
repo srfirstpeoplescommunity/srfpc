@@ -3,10 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visit Us | Santa Rosa First Peoples Community</title>
-    <meta name="description" content="Plan your visit to the Santa Rosa First Peoples Centre in Arima.">
+    <title>Connect with Us | Santa Rosa First Peoples Community</title>
+    <meta name="description" content="Connect with the Santa Rosa First Peoples Community in Arima, Trinidad and Tobago. Find corporate office details, hours, form inquiry, and map directions.">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0B0HJTN3LK"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0B0HJTN3LK');
+    </script>
 </head>
 <body>
 
@@ -25,14 +34,14 @@
             <li><a href="queens.html">Carib Queens</a></li>
             <li><a href="heritage.html">Heritage Village</a></li>
             <li><a href="books.html">Books & Research</a></li>
-            <li><a href="visit.html" class="active">Visit Us</a></li>
+            <li><a href="visit.html" class="active">Connect with Us</a></li>
         </ul>
     </nav>
 
     <!-- Page Header -->
     <header class="page-header">
-        <h1>Plan Your Visit</h1>
-        <p>Experience our heritage firsthand.</p>
+        <h1>Connect with Us</h1>
+        <p>Get in touch, visit our corporate offices, or browse our gift shop.</p>
     </header>
 
     <!-- Content Sections -->
@@ -40,22 +49,62 @@
         <section class="section">
             <div class="contact-container scroll-anim">
                 <div class="col-text">
-                    <h2>Santa Rosa First Peoples Centre</h2>
-                    <br>
-                    <p>We welcome researchers, students, and visitors who are interested in learning about our culture, history, and traditions. The centre features exhibits and provides educational outreach, including weaving classes.</p>
-                    <br>
-                    <div class="contact-info">
-                        <h3>Address</h3>
-                        <p>7 Paul Mitchell St<br>Arima, Trinidad and Tobago</p>
-                        
-                        <h3>Phone</h3>
-                        <p>664-1897</p>
+                    <h2>Santa Rosa First Peoples Community</h2>
+                    <p style="font-size: 1.15rem; color: var(--color-text-light); margin-bottom: 2rem;">(formerly Santa Rosa Carib Community)</p>
+                    
+                    <div class="connect-grid">
+                        <!-- Left Side: Contact details & Hours -->
+                        <div>
+                            <div class="contact-info" style="text-align: left; margin: 0;">
+                                <h3 style="color: var(--color-primary-dark); font-size: 1.5rem; margin-bottom: 0.5rem;">Corporate Offices</h3>
+                                <p style="font-size: 1.1rem; line-height: 1.6; margin-bottom: 1.5rem;">
+                                    #7 Paul Mitchell Street, Arima<br>
+                                    Trinidad and Tobago
+                                </p>
+                                
+                                <h3 style="color: var(--color-primary-dark); font-size: 1.5rem; margin-bottom: 0.5rem;">Contact Info</h3>
+                                <p style="font-size: 1.1rem; line-height: 1.6; margin-bottom: 1.5rem;">
+                                    <strong>Phone:</strong> 868-664-1897<br>
+                                    <strong>Email:</strong> <a href="mailto:nepuyo@yahoo.com" style="color: var(--color-accent); font-weight: bold; text-decoration: underline;">nepuyo@yahoo.com</a>
+                                </p>
+                            </div>
 
-                        <h3>Social Media</h3>
-                        <p>Connect with us on our <a href="https://www.facebook.com/santarosafirstpeoplescommunity" target="_blank" style="color: var(--color-accent); font-weight: bold; text-decoration: underline;">Official Facebook Page</a>.</p>
+                            <div class="hours-grid">
+                                <div class="hours-card">
+                                    <h4>Office Hours</h4>
+                                    <p>Weekdays / 8:00 – 16:00</p>
+                                    <p>Saturday / 8:00 – 16:00</p>
+                                    <p style="color: var(--color-text-light); font-size: 0.9rem; margin-top: 4px;">Sunday / CLOSED</p>
+                                </div>
+                                <div class="hours-card">
+                                    <h4>Gift Shop Hours</h4>
+                                    <p>Weekdays / 10:00 – 15:00</p>
+                                    <p>Weekends / CLOSED</p>
+                                </div>
+                            </div>
+
+                            <h3 style="color: var(--color-primary-dark); font-size: 1.5rem; margin-top: 2rem; margin-bottom: 0.5rem; text-align: left;">Social Media</h3>
+                            <div class="social-links-container" style="justify-content: flex-start;">
+                                <a href="https://www.facebook.com/santarosafirstpeoplescommunity" target="_blank" class="social-icon-btn facebook" title="Facebook">f</a>
+                                <a href="https://www.instagram.com/santarosafirstpeoples/" target="_blank" class="social-icon-btn instagram" title="Instagram">📸</a>
+                                <a href="https://www.youtube.com/@santarosafirstpeoplescommu790" target="_blank" class="social-icon-btn youtube" title="YouTube">▶</a>
+                            </div>
+                        </div>
+
+                        <!-- Right Side: Location Map -->
+                        <div style="display: flex; flex-direction: column; justify-content: center;">
+                            <h3 style="color: var(--color-primary-dark); font-size: 1.5rem; text-align: left; margin-bottom: 0.5rem;">Our Location</h3>
+                            <div class="map-container">
+                                <iframe src="https://maps.google.com/maps?hl=en-US&ll=10.643384,-61.287082&output=embed&q=10.643384,-61.28707&z=17" allowfullscreen></iframe>
+                            </div>
+                        </div>
                     </div>
 
-                    <p style="font-style: italic; color: var(--color-text-light);">Please call ahead to arrange a guided visit.</p>
+                    <!-- Bottom Section: Embedded Form -->
+                    <div class="form-container">
+                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWtjHj83j5iqcMmKQ94pt7TQGLBgUH8pWedATqCsYo2614wg/viewform?embedded=true" width="100%" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading inquiry form...</iframe>
+                    </div>
+
                 </div>
             </div>
         </section>
