@@ -624,7 +624,7 @@ img {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
   .navbar {
     padding: 1rem var(--spacing-md);
   }
@@ -644,6 +644,7 @@ img {
     transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     align-items: flex-start;
     z-index: 999;
+    overflow-y: auto; /* Allow scrolling inside mobile nav menu if many dropdowns expand */
   }
   
   .nav-links.show {
