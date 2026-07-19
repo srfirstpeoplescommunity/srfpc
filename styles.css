@@ -113,6 +113,12 @@ img {
   align-items: center;
 }
 
+.nav-logo {
+  height: 48px;
+  width: auto;
+  display: block;
+}
+
 .nav-brand span {
   color: var(--color-accent);
 }
