@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery | Santa Rosa First Peoples Community</title>
+    
+    <!-- Meta Descriptions for SEO -->
+    <meta name="description" content="Explore photos from historical gatherings, annual Santa Rosa Festivals, and traditional ceremonies of the First Peoples Community of Trinidad.">
+    
+    <!-- Design Fonts & Stylesheet -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="images/srfpc_logo.png">
+</head>
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <a href="index.html" class="nav-brand">
+            <img src="images/srfpc_logo.png" alt="SRFPC Logo" class="nav-logo">
+        </a>
+        <button class="mobile-menu-btn" id="mobile-btn">
+            ☰
+        </button>
+        <ul class="nav-links" id="nav-links">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle">About Us <i class="fas fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="history.html">History & Culture</a></li>
+                    <li><a href="queens.html">Carib Queens</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle">Experience <i class="fas fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="festivals.html">Festivals</a></li>
+                    <li><a href="heritage.html">Heritage Village</a></li>
+                </ul>
+            </li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle active">Resources <i class="fas fa-chevron-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="books.html">Books & Research</a></li>
+                    <li><a href="gallery.html" class="active">Photo Gallery</a></li>
+                    <li><a href="https://sites.google.com/view/santarosafirstpeoplescommunity/news" target="_blank">News & Media <i class="fas fa-external-link-alt" style="font-size: 0.75rem; margin-left: 0.25rem; opacity: 0.8;"></i></a></li>
+                </ul>
+            </li>
+            <li><a href="visit.html" class="nav-cta-btn">Connect with Us</a></li>
+        </ul>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>Photo Gallery</h1>
+        <p>Celebrating our heritage through visual archives of events and years.</p>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <section class="gallery-section scroll-anim">
+            
+            <!-- Filters Card -->
+            <div class="gallery-filters">
+                <!-- Year Filter Group -->
+                <div class="filter-group" data-filter-group="year">
+                    <span class="filter-label">Filter by Year:</span>
+                    <button class="filter-btn active" data-filter="all">All Years</button>
+                    <button class="filter-btn" data-filter="2025">2025</button>
+                    <button class="filter-btn" data-filter="2024">2024</button>
+                    <button class="filter-btn" data-filter="2023">2023</button>
+                    <button class="filter-btn" data-filter="historical">Historical</button>
+                </div>
+                <!-- Category Filter Group -->
+                <div class="filter-group" data-filter-group="category">
+                    <span class="filter-label">Category:</span>
+                    <button class="filter-btn active" data-filter="all">All Categories</button>
+                    <button class="filter-btn" data-filter="festivals">Festivals</button>
+                    <button class="filter-btn" data-filter="ceremonies">Ceremonies</button>
+                    <button class="filter-btn" data-filter="workshops">Workshops</button>
+                    <button class="filter-btn" data-filter="community">Community</button>
+                </div>
+            </div>
+
+            <!-- Gallery Grid -->
+            <div class="gallery-grid">
+                
+                <!-- Item 1: Festival 2025 -->
+                <div class="gallery-item animate" data-year="2025" data-category="festivals">
+                    <div class="gallery-item-badges">
+                        <span class="gallery-badge category">Festivals</span>
+                        <span class="gallery-badge year">2025</span>
+                    </div>
+                    <div class="gallery-img-wrapper">
+                        <img src="images/gallery_festival_2025.png" alt="Annual Santa Rosa Festival Dancer">
+                    </div>
+                    <div class="gallery-item-info">
+                        <h3>Annual Santa Rosa Festival</h3>
+                        <p>Vibrant procession dancer showcasing traditional feather headdresses, intricate beadwork, and ceremonial regalia on the streets of Arima during the August celebrations.</p>
+                    </div>
+                </div>
+
+                <!-- Item 2: Smoke Ceremony 2024 -->
+                <div class="gallery-item animate" data-year="2024" data-category="ceremonies">
+                    <div class="gallery-item-badges">
+                        <span class="gallery-badge category">Ceremonies</span>
+                        <span class="gallery-badge year">2024</span>
+                    </div>
+                    <div class="gallery-img-wrapper">
+                        <img src="images/gallery_ceremony_2024.png" alt="Sacred Smoke Ceremony and prayer">
+                    </div>
+                    <div class="gallery-item-info">
+                        <h3>Sacred Smoke Ceremony</h3>
+                        <p>Respected community elders leading the cleansing smoke ceremony with copal incense, offering prayers and gratitude to the Great Spirit and ancestors.</p>
+                    </div>
+                </div>
+
+                <!-- Item 3: Weaving Workshop 2023 -->
+                <div class="gallery-item animate" data-year="2023" data-category="workshops">
+                    <div class="gallery-item-badges">
+                        <span class="gallery-badge category">Workshops</span>
+                        <span class="gallery-badge year">2023</span>
+                    </div>
+                    <div class="gallery-img-wrapper">
+                        <img src="images/gallery_weaving_2023.png" alt="Terite Reed Weaving Workshop">
+                    </div>
+                    <div class="gallery-item-info">
+                        <h3>Terite Reed Weaving</h3>
+                        <p>Elders passing down the ancient art of terite reed weaving to the younger generation, preserving the craft of traditional basket and mat making.</p>
+                    </div>
+                </div>
+
+                <!-- Item 4: Historical 1980s -->
+                <div class="gallery-item animate" data-year="historical" data-category="community">
+                    <div class="gallery-item-badges">
+                        <span class="gallery-badge category">Community</span>
+                        <span class="gallery-badge year">Historical</span>
+                    </div>
+                    <div class="gallery-img-wrapper">
+                        <img src="images/gallery_historical.png" alt="Archival Gathering of Elders">
+                    </div>
+                    <div class="gallery-item-info">
+                        <h3>Community Elders Meeting</h3>
+                        <p>A rare archival photograph capturing a traditional meeting of First Peoples elders outside the community center in Arima, taken during the 1980s.</p>
+                    </div>
+                </div>
+
+                <!-- Item 5: Weaving 2024 -->
+                <div class="gallery-item animate" data-year="2024" data-category="workshops">
+                    <div class="gallery-item-badges">
+                        <span class="gallery-badge category">Workshops</span>
+                        <span class="gallery-badge year">2024</span>
+                    </div>
+                    <div class="gallery-img-wrapper">
+                        <img src="images/srfpc_weaving.png" alt="Weaving and Crafting Crafts">
+                    </div>
+                    <div class="gallery-item-info">
+                        <h3>Indigenous Craft Preservation</h3>
+                        <p>Fine craftsmanship displaying terite reed weaving patterns and natural palm weaving techniques, captured during a summer community workshop.</p>
+                    </div>
+                </div>
+
+                <!-- Item 6: Community 2023 -->
+                <div class="gallery-item animate" data-year="2023" data-category="community">
+                    <div class="gallery-item-badges">
+                        <span class="gallery-badge category">Community</span>
+                        <span class="gallery-badge year">2023</span>
+                    </div>
+                    <div class="gallery-img-wrapper">
+                        <img src="images/srfpc_hero.png" alt="Arima Landscape and mountains">
+                    </div>
+                    <div class="gallery-item-info">
+                        <h3>Landscape of Arima Valley</h3>
+                        <p>Scenic mountains and lush greenery surrounding the historical lands of the Arima First Peoples, embodying our physical and spiritual connection to nature.</p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox" class="lightbox">
+        <button id="lightbox-close" class="lightbox-close" aria-label="Close Lightbox">&times;</button>
+        <button id="lightbox-prev" class="lightbox-btn prev" aria-label="Previous Image"><i class="fas fa-chevron-left"></i></button>
+        <button id="lightbox-next" class="lightbox-btn next" aria-label="Next Image"><i class="fas fa-chevron-right"></i></button>
+        <div class="lightbox-content">
+            <img id="lightbox-img" class="lightbox-img" src="" alt="">
+        </div>
+        <div class="lightbox-caption">
+            <h3 id="lightbox-title">Image Title</h3>
+            <p id="lightbox-desc">Image description text details go here...</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-links">
+            <a href="https://sites.google.com/view/santarosafirstpeoplescommunity/news" target="_blank">News</a>
+            <a href="visit.html">Connect with Us</a>
+            <a href="#">Privacy Policy</a>
+        </div>
+        <div class="social-links-container" style="justify-content: center; margin: 1.5rem 0;">
+            <a href="https://www.facebook.com/santarosafirstpeoplescommunity" target="_blank" class="social-icon-btn facebook" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/santarosafirstpeoples/" target="_blank" class="social-icon-btn instagram" title="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/@santarosafirstpeoplescommu790" target="_blank" class="social-icon-btn youtube" title="YouTube"><i class="fab fa-youtube"></i></a>
+        </div>
+        <div class="footer-bottom" style="text-align: center; border-top: none; padding-top: 0;">
+            <p>&copy; 2026 Santa Rosa First Peoples Community. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
