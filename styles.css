@@ -51,6 +51,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 150px;
 }
 
 body {
@@ -1120,3 +1121,60 @@ img {
     color: var(--color-text-light);
   }
 }
+
+/* Page Sub-Navigation */
+.page-subnav {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  background: rgba(250, 247, 242, 0.95);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  border-bottom: 1px solid var(--color-border);
+  padding: 1.1rem 0;
+  position: sticky;
+  top: 72px;
+  z-index: 99;
+  box-shadow: 0 4px 12px rgba(75, 35, 13, 0.03);
+  transition: all 0.3s ease;
+}
+
+.page-subnav a {
+  color: var(--color-text-light);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all 0.3s ease;
+  position: relative;
+  padding: 0.25rem 0;
+}
+
+.page-subnav a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background: var(--color-accent);
+  transition: width 0.3s ease;
+}
+
+.page-subnav a:hover {
+  color: var(--color-accent);
+}
+
+.page-subnav a:hover::after {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .page-subnav {
+    gap: 1.5rem;
+    padding: 0.9rem 1rem;
+    flex-wrap: wrap;
+  }
+  .page-subnav a {
+    font-size: 0.9rem;
+  }
+}
+
