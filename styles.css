@@ -974,29 +974,35 @@ img {
   padding: 1.5rem;
   border-radius: var(--border-radius-md);
   border: 1px solid var(--color-border);
-  position: relative;
-  overflow: hidden;
   box-shadow: var(--shadow-sm);
+}
+
+.hours-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-sm);
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
 }
 
 .hours-card h4 {
   color: var(--color-primary-dark);
-  margin-bottom: 1rem;
-  font-size: 1.2rem;
+  margin-bottom: 0;
+  font-size: 1.15rem;
   font-weight: 700;
+  line-height: 1.2;
 }
 
 .hours-badge {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 700;
   text-transform: uppercase;
   padding: 0.2rem 0.5rem;
   border-radius: var(--border-radius-sm);
   background-color: var(--color-bg-alt);
   color: var(--color-text-light);
+  white-space: nowrap;
 }
 
 .hours-badge.shop {
@@ -1379,6 +1385,10 @@ img {
   .contact-sections {
     grid-template-columns: 1fr;
     gap: var(--spacing-md);
+  }
+  .hours-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
   }
   .inquiry-section {
     padding: var(--spacing-lg) var(--spacing-md);
