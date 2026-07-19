@@ -979,9 +979,9 @@ img {
 
 .hours-header {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
-  gap: var(--spacing-sm);
+  gap: 0.75rem;
   margin-bottom: 1rem;
   flex-wrap: wrap;
 }
