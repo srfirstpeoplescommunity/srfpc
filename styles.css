@@ -504,7 +504,7 @@ img {
 .footer {
   background: linear-gradient(135deg, var(--color-secondary-dark), var(--color-primary-dark));
   color: white;
-  padding: var(--spacing-xxl) 8% var(--spacing-lg);
+  padding: var(--spacing-xl) 8% var(--spacing-md);
   position: relative;
 }
 
@@ -521,23 +521,38 @@ img {
 .footer-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 3rem;
-  margin-bottom: var(--spacing-xxl);
+  gap: 5rem; /* Even larger gap for better breathing room */
+  margin-bottom: var(--spacing-xl);
   text-align: left;
 }
 
 .footer h4 {
   color: var(--color-accent);
-  font-size: 1.5rem;
-  font-weight: 800;
-  margin-bottom: var(--spacing-md);
+  font-size: 1.35rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem; /* Larger spacing below headers */
   letter-spacing: -0.01em;
+  text-transform: uppercase;
+}
+
+.footer-logo-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--spacing-lg);
+  width: 100%;
+}
+
+.footer-logo {
+  height: 90px;
+  width: auto;
+  border-radius: var(--border-radius-md);
+  display: block;
 }
 
 .footer p {
-  color: rgba(255, 255, 255, 0.75);
-  font-size: 1rem;
-  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.98rem;
+  line-height: 1.9; /* Slightly increased line height for clean readability */
 }
 
 .footer-bottom {
