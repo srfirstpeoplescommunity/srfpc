@@ -163,6 +163,33 @@ img {
   color: var(--color-primary-dark);
 }
 
+.nav-cta-btn {
+  background-color: var(--color-accent);
+  color: var(--color-secondary-dark) !important;
+  font-weight: 700 !important;
+  padding: 0.6rem 1.35rem !important;
+  border-radius: var(--border-radius-full);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 10px rgba(181, 143, 76, 0.2);
+  display: inline-block;
+}
+
+.nav-cta-btn:hover {
+  background-color: var(--color-primary-dark) !important;
+  color: white !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(75, 35, 13, 0.25);
+}
+
+.nav-cta-btn.active {
+  background-color: var(--color-primary) !important;
+  color: white !important;
+}
+
+.nav-links a.nav-cta-btn::after {
+  display: none !important;
+}
+
 .mobile-menu-btn {
   display: none;
   background: none;
