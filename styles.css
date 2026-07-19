@@ -1000,8 +1000,8 @@ img {
   text-transform: uppercase;
   padding: 0.2rem 0.5rem;
   border-radius: var(--border-radius-sm);
-  background-color: var(--color-bg-alt);
-  color: var(--color-text-light);
+  background-color: rgba(75, 35, 13, 0.08);
+  color: var(--color-primary-dark);
   white-space: nowrap;
 }
 
