@@ -79,4 +79,27 @@ document.addEventListener('DOMContentLoaded', () => {
         el.style.animationDelay = `${index * 0.15}s`;
         observer.observe(el);
     });
+
+    // Mobile Dropdowns Toggle on click (when viewports are small)
+    const dropdowns = document.querySelectorAll('.dropdown');
+    dropdowns.forEach(dropdown => {
+        const toggle = dropdown.querySelector('.dropdown-toggle');
+        if (toggle) {
+            toggle.addEventListener('click', (e) => {
+                if (window.innerWidth < 992) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    
+                    // Close other dropdowns
+                    dropdowns.forEach(d => {
+                        if (d !== dropdown) {
+                            d.classList.remove('active');
+                        }
+                    });
+                    
+                    dropdown.classList.toggle('active');
+                }
+            });
+        }
+    });
 });

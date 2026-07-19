@@ -993,7 +993,103 @@ img {
     grid-template-columns: 1fr;
   }
 }
+/* Dropdown Menu Styles */
+.nav-links li {
+  position: relative;
+}
 
+.dropdown-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  cursor: pointer;
+}
 
+.dropdown-toggle i {
+  font-size: 0.75rem;
+  transition: transform 0.3s ease;
+}
 
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(15px);
+  background: var(--color-surface);
+  min-width: 220px;
+  box-shadow: var(--shadow-md);
+  border-radius: var(--border-radius-md);
+  padding: var(--spacing-sm) 0;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  z-index: 1001;
+  border: 1px solid var(--color-border);
+  list-style: none;
+}
 
+.dropdown-menu li {
+  width: 100%;
+}
+
+.dropdown-menu a {
+  padding: 0.75rem var(--spacing-lg);
+  display: block;
+  color: var(--color-text);
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-align: left;
+  transition: all 0.25s ease;
+  border-bottom: none;
+}
+
+.dropdown-menu a:hover {
+  background-color: var(--color-bg-alt);
+  color: var(--color-accent) !important;
+  padding-left: 1.5rem;
+}
+
+/* Hover Reveal on Desktop */
+@media (min-width: 992px) {
+  .dropdown:hover .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+  }
+  
+  .dropdown:hover .dropdown-toggle i {
+    transform: rotate(180deg);
+  }
+}
+
+/* Mobile Dropdown Behaviors */
+@media (max-width: 991px) {
+  .dropdown-menu {
+    position: static;
+    transform: none;
+    opacity: 1;
+    visibility: visible;
+    display: none;
+    box-shadow: none;
+    background: rgba(0, 0, 0, 0.02);
+    border: none;
+    border-radius: 0;
+    width: 100%;
+    padding: 0;
+    margin: 0.5rem 0;
+  }
+  
+  .dropdown.active .dropdown-menu {
+    display: block;
+  }
+  
+  .dropdown.active .dropdown-toggle i {
+    transform: rotate(180deg);
+  }
+  
+  .dropdown-menu a {
+    padding: 0.75rem var(--spacing-xl);
+    font-size: 1rem;
+    color: var(--color-text-light);
+  }
+}
