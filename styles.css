@@ -527,7 +527,7 @@ img {
 }
 
 .footer-links a {
-  color: white;
+  color: rgba(255, 255, 255, 0.55);
   font-weight: 600;
   font-size: 1.05rem;
   display: inline-flex;
@@ -898,20 +898,38 @@ img {
   width: 50px;
   height: 50px;
   border-radius: var(--border-radius-full);
-  color: white !important;
+  background-color: rgba(0, 0, 0, 0.05);
+  color: var(--color-primary-dark) !important;
   font-size: 1.35rem;
   box-shadow: var(--shadow-sm);
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-icon-btn.facebook { background-color: #1877f2; }
-.social-icon-btn.instagram { background-color: #fe005c; }
-.social-icon-btn.youtube { background-color: #ff0000; }
+.footer .social-icon-btn {
+  background-color: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.55) !important;
+  box-shadow: none;
+}
 
 .social-icon-btn:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-md);
-  opacity: 0.9;
+  opacity: 1;
+}
+
+.social-icon-btn.facebook:hover {
+  background-color: #1877f2;
+  color: white !important;
+}
+
+.social-icon-btn.instagram:hover {
+  background-color: #fe005c;
+  color: white !important;
+}
+
+.social-icon-btn.youtube:hover {
+  background-color: #ff0000;
+  color: white !important;
 }
 
 .hours-grid {
