@@ -234,4 +234,32 @@ document.addEventListener('DOMContentLoaded', () => {
             if (e.key === 'ArrowRight') navigateNext();
         });
     }
+
+    // === Page-Specific Ambient Audio Player (visit.html) ===
+    const audioPlayer = document.getElementById('audio-player');
+    const bgAudio = document.getElementById('bg-audio');
+    const audioBtn = document.getElementById('audio-btn');
+    const audioIcon = document.getElementById('audio-icon');
+    const audioStatus = document.getElementById('audio-status');
+
+    if (audioPlayer && bgAudio && audioBtn) {
+        audioBtn.addEventListener('click', () => {
+            if (bgAudio.paused) {
+                bgAudio.play()
+                    .then(() => {
+                        audioPlayer.classList.remove('paused');
+                        audioIcon.className = 'fas fa-volume-up';
+                        audioStatus.textContent = 'Mute Music';
+                    })
+                    .catch(err => {
+                        console.error("Audio playback blocked or failed:", err);
+                    });
+            } else {
+                bgAudio.pause();
+                audioPlayer.classList.add('paused');
+                audioIcon.className = 'fas fa-volume-mute';
+                audioStatus.textContent = 'Play Music';
+            }
+        });
+    }
 });

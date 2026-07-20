@@ -168,6 +168,23 @@
         </div>
     </footer>
 
+    <!-- Ambient Audio Player Element -->
+    <div id="audio-player" class="audio-player-container paused">
+        <button id="audio-btn" class="audio-toggle-btn" aria-label="Toggle Background Music">
+            <i class="fas fa-volume-mute" id="audio-icon"></i>
+        </button>
+        <span class="audio-status-text" id="audio-status">Play Music</span>
+        <div class="soundwaves">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <audio id="bg-audio" loop>
+            <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>
