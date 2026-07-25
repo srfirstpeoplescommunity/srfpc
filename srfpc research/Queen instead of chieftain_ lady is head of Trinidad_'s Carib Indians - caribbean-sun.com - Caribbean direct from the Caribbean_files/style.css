@@ -1,0 +1,203 @@
+/* CSS Document */
+body {font-family:"Trebuchet MS";font-size:8pt;background: url(/img/bg.jpg) no-repeat;margin: 0px;text-align:left;width:100%;height:100%}
+#ground {text-align:left;background-image: url(/img/wg.jpg);background-repeat: repeat-x;width:100%;padding-top:30px}
+#content {margin: 0 auto;font-family:"Trebuchet MS";font-size:10pt;background-color:#fff;width:1006px;border: 3px solid #91c4fe;height:100%}
+#head {height:120px;background-image: url(/img/hg.gif);text-align:left;clear:both;}
+#subhead {height:26px;line-height:26px;text-align:left;width:100%;padding-top:10px;}
+#subhead table td {height:26px;line-height:26px;text-align:left;padding-left:6px;vertical-align:middle;}
+#subhead table td a {color:#666; text-decoration:none;}
+#subhead table td a:hover {color:#f10;}
+#subfloat {float:left;padding-left:10px;}
+#subfloatr {float:right;}
+#head img {vertical-align: top;}
+#navigation {width:182px;float:left;overflow:show;}
+#navtop {width:170px;background-image: url(/img/nt.gif);height:5px;float:left;overflow: hidden;margin-left:3px;margin-top:5px}
+#navo {width:170px;background-image: url(/img/ng.gif);float:left;margin-left:3px;text-align:left;font-size:10pt;font-weight:bold}
+#navo div {line-height:22px;margin-left:1px}
+#ext {font-size:9px;color:#fff;height:12px;margin-top:4px;padding-top:0px;line-height:12px;visibility:hidden;}
+#insel {padding-left:6px;width:200px;height:22px;overflow:show;}
+#subinsel {padding-left:10px;width:174px;display:none;}
+
+.exto {color:#000;text-decoration:none;padding-left:3px;}
+.exto:hover {color:#fff;}
+.exo {color:#ffffff;text-decoration:underline;}
+.exo:hover {color:#ff0;text-decoration:none;font-weight:bold}
+.home {color:#000;text-decoration:none;font-weight:bold;}
+.home:hover {color:#f10;}
+
+.preis {color:#f00}
+#info {background-image: url(/img/li-info.gif);background-repeat:no-repeat;padding-left:18px;width:160px}
+#info:hover {background-color:#93aec9}
+.exob {color:#666;text-decoration:none;font-weight:normal}
+.exob:hover {color:#000;text-decoration:underline}
+#navcut {width:170px;float:left;margin-left:3px;text-align:left;border-top: 1px solid #81abe8;border-bottom: 1px solid #81abe8;font-size: 11pt;color:#336699}
+#navmiddel {width:168px;float:left;margin-left:3px;border-left: 1px solid #81abe8;border-right: 1px solid #81abe8;}
+#navu {width:170px;float:left;margin-left:3px;}
+#navuin {width:168px;padding-left:1px;text-align:justify;font-size:10pt;font-weight:normal;border-left: 1px solid #81abe8;border-right: 1px solid #81abe8}
+#navend {width:170px;float:left;margin-left:3px;height:7px;background-image: url(/index-Dateien/bg_lu.gif);background-position:bottom;background-repeat:no-repeat;font-size:1px}
+#main {width: 818px;float: right;padding-right:1px;margin-top:5px;background:#fff;}
+#mainmiddel {width: 626px;float: left;text-align:left}
+#mainright { width: 180px;float: right;text-align:left}
+#trenner {font-size:1px;background:#fff;height:2px;clear:both;margin-left:-6px;}
+#trenner2 {font-size:1px;background:#fff;height:4px;clear:both;margin-left:-6px;}
+#nrt {background-image: url(/img/nrt.gif);background-color: #d8eaff;background-repeat:no-repeat;padding-left:6px;font-size:8pt;padding-bottom:3px;padding-top:3px;}
+#nrt h1 {font-size:10pt;margin:0px;padding:0px;color:#f00}
+#nrb {font-size:8pt;background-color: #d8eaff;line-height:14px;padding-left:6px;padding-bottom:3px;padding-top:3px;}
+#nrb p {font-size:8pt;padding-right:6px;margin-top:5px;margin-bottom:5px}
+#nrb p a {color:#000}
+#nrb p a:hover {color:#0065c9;text-decoration:none}
+#nrb h1 {font-size:10pt;margin-top:1px;margin-bottom:1px;color:#f00}
+#nrb h2 {font-size:9pt;margin-top:0px;margin-bottom:0px;color:#f00;font-weight:bold}
+#nrg {font-size:8pt;background-image: url(/img/geheime-unterkunft.jpg);background-color: #009;padding-left:6px;color:#fff;padding-left:6px;padding-bottom:3px;padding-top:3px;}
+#nrg h1 {font-size:10pt;margin-top:1px;margin-bottom:1px;color:#fff}
+#nrg p {margin-top:9px;margin-bottom:10px;}
+#nrg p a {color:#ff0}
+#nrg p a:hover {color:#fff;text-decoration:none}
+#nru {background-image: url(/img/nrb.gif);background-position:bottom;background-color: #d8eaff;line-height:15px;background-repeat:no-repeat;padding-left:6px;font-size:10pt;padding-bottom:3px;padding-top:3px;}
+#nru p {font-size:8pt;padding-right:6px;margin-top:3px;margin-bottom:3px}
+#nru h1 {font-size:10pt;margin:0px;color:#f00}
+#nru h3 {font-size:10pt;margin-top:0px;margin-bottom:0px;}
+#nru a {color:#000}
+#nru a:hover {color:#0065c9;text-decoration:none}
+#kt {background-image: url(/img/karibiktyp.jpg);width:170px;height:70px}
+#kt:hover {background-image: url(/img/karibiktyp-over.jpg)}
+#brake {font-size:8pt;width:100%}
+#trenn {margin-left:-6px;margin-top:0px;padding-top:0px;width:180px}
+#uleft {background-image: url(/img/uleft.gif);background-repeat:no-repeat;width:418px;height:324px;float: left;padding-left:10px;}
+
+#uleft h1 {font-size:12pt;margin-top:2px;margin-bottom:10px;color:#fff}
+#uleft h2 {font-size:12pt;margin-top:30px;margin-bottom:10px;color:#000}
+#uleft h3 {font-size:10pt;margin-top:0px;margin-bottom:0px}
+#uleft img {margin-right:5px}
+#uleft p {margin-top:0px;margin-bottom:0px}
+#uleft a {text-decoration:none}
+#uleft a:hover {text-decoration:underline;color:#0065c9}
+#uleftk {position:absolute;margin-top:204px;font-size:9pt}
+#uleftk1 {position:absolute;margin-top:204px;font-size:9pt;}
+#uright {background-image: url(/img/uright.gif);background-repeat:no-repeat;width:196px;height:324px;float: right;}
+#uright h1 {font-size:12pt;margin-top:2px;margin-bottom:10px;color:#fff;padding-left:10px;padding-right:10px}
+#uright h3 {font-size:12pt;margin-top:10px;margin-bottom:10px;color:#000;padding-left:10px;padding-right:10px}
+#uright p {margin-top:0px;margin-bottom:10px;padding-left:10px;padding-right:10px}
+#uright a {text-decoration:none}
+#uright a:hover {text-decoration:underline;color:#0065c9}
+#foot {color:#000;clear:both;}
+#endnav {color:#000;padding-top:5px;font-size:8pt;text-align:center;}
+#endnav a {color:#000;text-decoration:none}
+#endnav a:hover {color:#f00;text-decoration:none}
+
+a.flugbutton {background: url(/img/flight.jpg) no-repeat top;width:168px;height:64px;display:block;text-decoration:none;}
+a.flugbutton:hover {background: url(/img/flight.jpg) no-repeat bottom;width:168px;height:64px;display:block;text-decoration:none;}
+
+a.en_flugbutton {background: url(/img/en/flight.jpg) no-repeat top;width:168px;height:64px;display:block;text-decoration:none;}
+a.en_flugbutton:hover {background: url(/img/en/flight.jpg) no-repeat bottom;width:168px;height:64px;display:block;text-decoration:none;}
+
+a.fr_flugbutton {background: url(/img/fr/flight.jpg) no-repeat top;width:168px;height:64px;display:block;text-decoration:none;}
+a.fr_flugbutton:hover {background: url(/img/fr/flight.jpg) no-repeat bottom;width:168px;height:64px;display:block;text-decoration:none;}
+
+/* HOtels */
+#infobody {width:100%; clear:both;}
+#cut {clear:both;font-size:5px;height:5px;}
+#hotels {width:572px;float:left; color:#666;}
+#hotelhead {clear:both;width:572px;}
+#inselname {float:left;font-size:48px;font-weight:bold;height:100%;}
+#navon {float:right;}
+#navon table td {font-weight:bold; font-size:12px; color:#666;text-align:right; padding:4px 0;}
+#navon table td a {color:#f10;}
+#navon table td a:hover {text-decoration:none;}
+
+#hotelangebote {width:572px;}
+#hoteltip {float:left;width:280px;height:100px;background:url(/img/tipp_hotels.jpg) no-repeat;}
+#en_hoteltip {float:left;width:280px;height:100px;background:url(/img/en/tipp_hotels.jpg) no-repeat;}
+#fr_hoteltip {float:left;width:280px;height:100px;background:url(/img/fr/tipp_hotels.jpg) no-repeat;}
+#hotelangebot {width:278px;height: 98px;background:#ffe5e6;float:left;}
+#hotelthumb {width:99px;height:98px;float:left;}
+#hotelsinfos {width:177px;height:98px;float:left;}
+
+
+
+/* HOtels rechts*/
+#hotelscoktail {float:right;width:220px;margin-top:2px;}
+#coktailde {clear:both;width:220px; height:93px;background:url(/img/coktail.gif) no-repeat;}
+#coktailen {clear:both;width:220px; height:93px;background:url(/img/en/coktail.gif) no-repeat;}
+#coktailfr {clear:both;width:220px; height:93px;background:url(/img/fr/coktail.gif) no-repeat;}
+#hotelcoktail {clear:both;width:220px;margin-top:3px;height:117px;}
+#coktailhead {clear:both;width:219px; height:15px; font-size:13px; font-weight:bold;color:#fff;padding:0 0 2px 0px;text-align:left;}
+#coktailinfos {width:119px;height:98px;float:left;}
+
+a.hotellink {color:#000;line-height:16px;}
+a.hotellink:hover {color:#000;line-height:16px;}
+a.preislink {color:#fd0100;text-decoration:none;}
+a.preislink:hover {color:#fdC300;text-decoration:none;}
+
+/* HOtels */
+#hotelcontent {width:795px;float:right;margin-right:10px;position:relative; color:#666;}
+#hotelheadline {width:776px;float:left;margin-top:10px;}
+#subline {width:776px;float:left;}
+#hotelname {font-size:22px;font-weight:bold;color:#8a8a8a;float:left;}
+#inselrechts {font-size:22px;font-weight:bold;float:right;}
+#hotelright {float:right; width:320px;margin:0px;}
+#pright {text-align:left; width:300px;float:left;}
+#pright_tipp {text-align:left;width:320px;margin-right:0px;margin-top:10px;}
+#prightb {float:left; width:320px;font-weight:bold; color:#676767;text-align:left;font-size:11px;margin-top:30px;}
+#breakdiv {width:100%; clear:both; height:15px;}
+
+#headlineangebot {color:#666;}
+a.botnav { color:#676767;}
+a.botnav:hover { color:#f10;}
+
+#borderline {width:100%;clear:both;}
+
+/* Belegungsplan */
+#vmon {background:#edebcf;text-align:center;padding: 0 3px;}
+#vday {width:15px;}
+
+/* Kontingente */
+#kontingent {width:100%;font-size:11px;}
+#bkategorie {background:#010080;color:#fff;}
+#bpreis {}
+#bkat_1 {background:#cdffff;text-align:left;}
+#bkat_2 {background:#cdffcc;text-align:left;}
+#bdates {background:#010080;color:#fff;text-align:center;}
+#bd {background:#010080;color:#fff;text-align:center;}
+#bw {background:#010080;color:#fff;text-align:center;}
+#bpreis_1 {text-align:center;background:#cdffff;}
+#bpreis_2 {text-align:center;background:#cdffcc;}
+#bpreis1_1 {text-align:center;background:#cdffff;}
+#bpreis1_2 {text-align:center;background:#cdffcc;}
+
+#anfrage {clear:both;width:100%;text-align:left;}
+
+.verknuepfungen {font-size:11px; text-decoration:none;line-height:17px;}
+.verknuepfungen:hover {font-size:12px; color:#f20;line-height:17px;}
+
+#berichtelinks {margin-top:3px;}
+#berichtelinkshead { clear:both;background:#d8eaff;line-height:24px;padding-left:10px;text-align:left;}
+a.berichtlink { font-weight:bold;text-decoration:none;}
+a.berichtlink:hover { font-weight:bold;text-decoration:none;}
+#berichtlinkbox {margin-top:3px; background:#d8eaff;text-align:left;padding:5px 10px;}
+#berichtlinkbox ul {margin:0px;padding:0px;}
+#berichtlinkbox ul li {margin:0px;padding:0px;margin-left:15px;font-size:9px;}
+#berichtlinkbox ul li a {color:#000;font-size:11px;}
+#berichtlinkbox ul li a:hover {color:#f10;font-size:11px;}
+
+.detailbuttons {display:block;background:url(/img/button_details.gif) no-repeat top;width:316px;height:28px; text-decoration:none;line-height:28px;text-align:center;font-size:11px;font-weight:bold;color:#000;}
+.detailbuttons:hover {display:block;background:url(/img/button_details.gif) no-repeat bottom;width:316px;height:28px; text-decoration:none;line-height:28px;text-align:center;font-size:11px;color:#fff;font-weight:bold;}
+.detailbuttons1 {display:block;background:url(/img/button_anfrage.jpg) no-repeat top;width:316px;height:28px; text-decoration:none;line-height:28px;text-align:center;font-size:11px;font-weight:bold;color:#000;}
+.detailbuttons1:hover {display:block;background:url(/img/button_anfrage.jpg) no-repeat bottom;width:316px;height:28px; text-decoration:none;line-height:28px;text-align:center;font-size:11px;color:#fff;font-weight:bold;}
+
+#breadcrump {text-align:left;clear:both;margin-left:8px;}
+#breadcrump a {color:#000;font-weight:bold;}
+#breadcrump a:hover {color:#000;text-decoration:none;font-weight:bold;}
+
+#subfloatr a {color:#000;text-decoration:none;}
+#subfloatr a:hover {color:#f10;text-decoration:none;}
+
+.tablehead {background:#3366CC;font-weight:bold; color:#fff;padding-left:10px;}
+.tablerow {background:#d8eaff;padding-left:10px;}
+
+#pk_img {width:220px; height:133px;float:right;margin-top:5px;margin-right:5px;}
+#kathead {background:url(/img/pk_bg.gif) no-repeat top;clear:both;width:100%;height:150px;}
+
+#berichtliste {text-align:left;}
+#berichtekiste {text-align:left;border-top:1px dotted #ccc;border-bottom:1px dotted #ccc;}
+#mapoverlay {width:100%;height:100%;position:relative;z-index:999;}
